@@ -1222,6 +1222,102 @@
   <programme start="20220528235500 +0700" stop="20220529000000 +0700" channel="NBT">
     <title lang="th">ลีลาชีวิต</title>
   </programme>
+  <programme start="20220523000000 +0700" stop="20220523003000 +0700" channel="Thai PBS">
+    <title lang="th">ซีรีส์วิถีคน</title>
+  </programme>
+  <programme start="20220523003000 +0700" stop="20220523010000 +0700" channel="Thai PBS">
+    <title lang="th">ชีวิตนอกกรุง Localist</title>
+  </programme>
+  <programme start="20220523010000 +0700" stop="20220523043000 +0700" channel="Thai PBS">
+    <title lang="th">ปิดสถานี</title>
+  </programme>
+  <programme start="20220523043000 +0700" stop="20220523053000 +0700" channel="Thai PBS">
+    <title lang="th">Newsroom Daily</title>
+  </programme>
+  <programme start="20220523053000 +0700" stop="20220523070000 +0700" channel="Thai PBS">
+    <title lang="th">วันใหม่ ไทยพีบีเอส</title>
+  </programme>
+  <programme start="20220523070000 +0700" stop="20220523080000 +0700" channel="Thai PBS">
+    <title lang="th">มุมการเมือง</title>
+  </programme>
+  <programme start="20220523080000 +0700" stop="20220523100000 +0700" channel="Thai PBS">
+    <title lang="th">วันใหม่วาไรตี้</title>
+  </programme>
+  <programme start="20220523100000 +0700" stop="20220523103000 +0700" channel="Thai PBS">
+    <title lang="th">ไทยบันเทิง</title>
+  </programme>
+  <programme start="20220523103000 +0700" stop="20220523120000 +0700" channel="Thai PBS">
+    <title lang="th">จับตาสถานการณ์</title>
+  </programme>
+  <programme start="20220523120000 +0700" stop="20220523123000 +0700" channel="Thai PBS">
+    <title lang="th">จับตารอบทิศ</title>
+  </programme>
+  <programme start="20220523123000 +0700" stop="20220523130000 +0700" channel="Thai PBS">
+    <title lang="th">Spirit of Asia วิถีเอเชีย</title>
+  </programme>
+  <programme start="20220523130000 +0700" stop="20220523133000 +0700" channel="Thai PBS">
+    <title lang="th">บ่ายโมงตรงประเด็น</title>
+  </programme>
+  <programme start="20220523133000 +0700" stop="20220523140000 +0700" channel="Thai PBS">
+    <title lang="th">Backpack Journalist</title>
+  </programme>
+  <programme start="20220523140000 +0700" stop="20220523140500 +0700" channel="Thai PBS">
+    <title lang="th">ทันข่าว 14.00 น.</title>
+  </programme>
+  <programme start="20220523140500 +0700" stop="20220523150000 +0700" channel="Thai PBS">
+    <title lang="th">สถานีประชาชน</title>
+  </programme>
+  <programme start="20220523150000 +0700" stop="20220523150500 +0700" channel="Thai PBS">
+    <title lang="th">ทันข่าว 15.00 น.</title>
+  </programme>
+  <programme start="20220523150500 +0700" stop="20220523153000 +0700" channel="Thai PBS">
+    <title lang="th">คนสู้โรค</title>
+  </programme>
+  <programme start="20220523153000 +0700" stop="20220523160000 +0700" channel="Thai PBS">
+    <title lang="th">ทุกทิศทั่วไทย</title>
+  </programme>
+  <programme start="20220523160000 +0700" stop="20220523163000 +0700" channel="Thai PBS">
+    <title lang="th">ข่าว 16.00 น.</title>
+  </programme>
+  <programme start="20220523163000 +0700" stop="20220523170000 +0700" channel="Thai PBS">
+    <title lang="th">Foodwork</title>
+  </programme>
+  <programme start="20220523170000 +0700" stop="20220523172500 +0700" channel="Thai PBS">
+    <title lang="th">ปังหรือพัง ฟังรีวิว…</title>
+  </programme>
+  <programme start="20220523172500 +0700" stop="20220523173000 +0700" channel="Thai PBS">
+    <title lang="th">ข.ขยับ</title>
+  </programme>
+  <programme start="20220523173000 +0700" stop="20220523180000 +0700" channel="Thai PBS">
+    <title lang="th">Come Home บ้านที่กลับมา</title>
+  </programme>
+  <programme start="20220523180000 +0700" stop="20220523185000 +0700" channel="Thai PBS">
+    <title lang="th">ท่องโลกกว้าง</title>
+  </programme>
+  <programme start="20220523185000 +0700" stop="20220523203000 +0700" channel="Thai PBS">
+    <title lang="th">ข่าวค่ำมิติใหม่</title>
+  </programme>
+  <programme start="20220523203000 +0700" stop="20220523210000 +0700" channel="Thai PBS">
+    <title lang="th">ตอบโจทย์</title>
+  </programme>
+  <programme start="20220523210000 +0700" stop="20220523214500 +0700" channel="Thai PBS">
+    <title lang="th">ทันโลก กับ ที่นี่ Thai PBS</title>
+  </programme>
+  <programme start="20220523214500 +0700" stop="20220523221500 +0700" channel="Thai PBS">
+    <title lang="th">บ้านพลังใจ</title>
+  </programme>
+  <programme start="20220523221500 +0700" stop="20220523223000 +0700" channel="Thai PBS">
+    <title lang="th">ก่อร่างสร้างสื่อ</title>
+  </programme>
+  <programme start="20220523223000 +0700" stop="20220523231500 +0700" channel="Thai PBS">
+    <title lang="th">จิบกาแฟกับไทยพีบีเอส</title>
+  </programme>
+  <programme start="20220523231500 +0700" stop="20220523233000 +0700" channel="Thai PBS">
+    <title lang="th">ไทยศิลป์</title>
+  </programme>
+  <programme start="20220523233000 +0700" stop="20220523235900 +0700" channel="Thai PBS">
+    <title lang="th">ข่าวดึก</title>
+  </programme>
   <programme start="20220523060000 +0700" stop="20220523063000 +0700" channel="ALTV">
     <title lang="th">KIDs พิชิต CODE(Rerun)</title>
   </programme>
