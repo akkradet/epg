@@ -2539,7 +2539,8 @@
   </programme>
   <programme start="20220525103000 +0700" stop="20220525110000 +0700" channel="ทีเอ็นเอ็น 16">
     <title lang="th">Meet the Top</title>
-    <sub-title lang="th">054</sub-title>
+    <sub-title lang="th">054 # WED 25 MAY 2022 TAPE 23</sub-title>
+    <date>2022</date>
     <episode-num system="onscreen">S16 E54</episode-num>
   </programme>
   <programme start="20220525110000 +0700" stop="20220525113000 +0700" channel="ทีเอ็นเอ็น 16">
@@ -3404,17 +3405,17 @@
     <sub-title lang="th">013</sub-title>
     <episode-num system="onscreen">S6 E13</episode-num>
   </programme>
-  <programme start="20220525050000 +0700" stop="20220525053000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525050000 +0700" stop="20220525052500 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ดาวค้างฟ้า STAR ODYSSEY</title>
     <sub-title lang="th">011</sub-title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20220525053000 +0700" stop="20220525060000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525052500 +0700" stop="20220525055500 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ติดเขา</title>
     <sub-title lang="th">008</sub-title>
     <episode-num system="onscreen">S8 E8</episode-num>
   </programme>
-  <programme start="20220525060000 +0700" stop="20220525080000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525055500 +0700" stop="20220525080000 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภาพยนตร์ ล่าระเบิดเมือง</title>
     <sub-title lang="th">ล่าระเบิดเมือง</sub-title>
     <episode-num system="onscreen">S9 E1</episode-num>
@@ -3447,17 +3448,17 @@
     <title lang="th">TNN ข่าวเที่ยง</title>
     <episode-num system="onscreen">S15 E1</episode-num>
   </programme>
-  <programme start="20220525123000 +0700" stop="20220525142500 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525123000 +0700" stop="20220525142400 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภาพยนตร์ ล่าแวมไพร์อมตะ</title>
     <sub-title lang="th">BYZANTIUM</sub-title>
     <episode-num system="onscreen">S16 E1</episode-num>
   </programme>
-  <programme start="20220525142500 +0700" stop="20220525145500 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525142400 +0700" stop="20220525145400 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ทรูช้อปปิ้ง</title>
     <sub-title lang="th">202088 WACOAL SMART SIZE BRA5ตัวแถมกระเป๋าMINI JELLY BAG V.1Q5</sub-title>
     <episode-num system="onscreen">S17 E479</episode-num>
   </programme>
-  <programme start="20220525145500 +0700" stop="20220525165000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220525145400 +0700" stop="20220525165000 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภ.รูโรนิ เคนชิน คนจริงโคตรซามูไร 3</title>
     <sub-title lang="th">RUROUNI KENSHIN THE LEGEND ENDS</sub-title>
     <episode-num system="onscreen">S18 E1</episode-num>
@@ -3468,7 +3469,7 @@
     <episode-num system="onscreen">S19 E1</episode-num>
   </programme>
   <programme start="20220525184000 +0700" stop="20220525200000 +0700" channel="ทรูโฟร์ยู">
-    <title lang="th">Match Day</title>
+    <title lang="th">MATCH DAY</title>
     <sub-title lang="th">062</sub-title>
     <episode-num system="onscreen">S20 E62</episode-num>
   </programme>
