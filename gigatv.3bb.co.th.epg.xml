@@ -2338,6 +2338,432 @@
   <programme start="20220529230000 +0700" stop="20220530000000 +0700" channel="TPTV">
     <title lang="th">บทบาทกรรมาธิการ</title>
   </programme>
+  <programme start="20220525000000 +0700" stop="20220525003000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220525003000 +0700" stop="20220525010000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220525010000 +0700" stop="20220525013000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220525013000 +0700" stop="20220525021500 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220525021500 +0700" stop="20220525030000 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220525030000 +0700" stop="20220525043000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220525043000 +0700" stop="20220525050000 +0700" channel="TNN16">
+    <title lang="th">Star Odyssey</title>
+  </programme>
+  <programme start="20220525050000 +0700" stop="20220525053000 +0700" channel="TNN16">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220525053000 +0700" stop="20220525060000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220525060000 +0700" stop="20220525080000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเช้า</title>
+  </programme>
+  <programme start="20220525080000 +0700" stop="20220525083000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220525083000 +0700" stop="20220525090000 +0700" channel="TNN16">
+    <title lang="th">ย่อโลกเศรษฐกิจ</title>
+  </programme>
+  <programme start="20220525090000 +0700" stop="20220525090500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220525090500 +0700" stop="20220525093000 +0700" channel="TNN16">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220525093000 +0700" stop="20220525103000 +0700" channel="TNN16">
+    <title lang="th">TNN ชั่วโมงทำเงิน</title>
+  </programme>
+  <programme start="20220525103000 +0700" stop="20220525110000 +0700" channel="TNN16">
+    <title lang="th">Meet the Top</title>
+  </programme>
+  <programme start="20220525110000 +0700" stop="20220525113000 +0700" channel="TNN16">
+    <title lang="th">การตลาดเงินล้าน</title>
+  </programme>
+  <programme start="20220525113000 +0700" stop="20220525130000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220525130000 +0700" stop="20220525133000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220525133000 +0700" stop="20220525133200 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220525133200 +0700" stop="20220525140000 +0700" channel="TNN16">
+    <title lang="th">คนชนข่าว</title>
+  </programme>
+  <programme start="20220525140000 +0700" stop="20220525140500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220525140500 +0700" stop="20220525143000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220525143000 +0700" stop="20220525150000 +0700" channel="TNN16">
+    <title lang="th">TNN Tech Reports</title>
+  </programme>
+  <programme start="20220525150000 +0700" stop="20220525153000 +0700" channel="TNN16">
+    <title lang="th">คนหลังข่าว</title>
+  </programme>
+  <programme start="20220525153000 +0700" stop="20220525170000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเย็น</title>
+  </programme>
+  <programme start="20220525170000 +0700" stop="20220525173000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220525173000 +0700" stop="20220525180000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220525180000 +0700" stop="20220525195700 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220525195700 +0700" stop="20220525200500 +0700" channel="TNN16">
+    <title lang="th">TNN Tech Reports</title>
+  </programme>
+  <programme start="20220525200500 +0700" stop="20220525203000 +0700" channel="TNN16">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220525203000 +0700" stop="20220525211500 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220525211500 +0700" stop="20220525211700 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220525211700 +0700" stop="20220525220000 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220525220000 +0700" stop="20220525223000 +0700" channel="TNN16">
+    <title lang="th">Money Delivery</title>
+  </programme>
+  <programme start="20220525223000 +0700" stop="20220526000000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220526000000 +0700" stop="20220526003000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220526003000 +0700" stop="20220526010000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220526010000 +0700" stop="20220526013000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220526013000 +0700" stop="20220526021500 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220526021500 +0700" stop="20220526030000 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220526030000 +0700" stop="20220526043000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220526043000 +0700" stop="20220526050000 +0700" channel="TNN16">
+    <title lang="th">Star Odyssey</title>
+  </programme>
+  <programme start="20220526050000 +0700" stop="20220526053000 +0700" channel="TNN16">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220526053000 +0700" stop="20220526060000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220526060000 +0700" stop="20220526080000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเช้า</title>
+  </programme>
+  <programme start="20220526080000 +0700" stop="20220526083000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220526083000 +0700" stop="20220526090000 +0700" channel="TNN16">
+    <title lang="th">ย่อโลกเศรษฐกิจ</title>
+  </programme>
+  <programme start="20220526090000 +0700" stop="20220526090500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220526090500 +0700" stop="20220526093000 +0700" channel="TNN16">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220526093000 +0700" stop="20220526103000 +0700" channel="TNN16">
+    <title lang="th">TNN ชั่วโมงทำเงิน</title>
+  </programme>
+  <programme start="20220526103000 +0700" stop="20220526110000 +0700" channel="TNN16">
+    <title lang="th">TNN Start Up</title>
+  </programme>
+  <programme start="20220526110000 +0700" stop="20220526113000 +0700" channel="TNN16">
+    <title lang="th">การตลาดเงินล้าน</title>
+  </programme>
+  <programme start="20220526113000 +0700" stop="20220526130000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220526130000 +0700" stop="20220526133000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220526133000 +0700" stop="20220526133200 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220526133200 +0700" stop="20220526140000 +0700" channel="TNN16">
+    <title lang="th">คนชนข่าว</title>
+  </programme>
+  <programme start="20220526140000 +0700" stop="20220526140500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220526140500 +0700" stop="20220526143000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220526143000 +0700" stop="20220526150000 +0700" channel="TNN16">
+    <title lang="th">เกษตรนิวเจน</title>
+  </programme>
+  <programme start="20220526150000 +0700" stop="20220526153000 +0700" channel="TNN16">
+    <title lang="th">คนหลังข่าว</title>
+  </programme>
+  <programme start="20220526153000 +0700" stop="20220526170000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเย็น</title>
+  </programme>
+  <programme start="20220526170000 +0700" stop="20220526173000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220526173000 +0700" stop="20220526180000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220526180000 +0700" stop="20220526195700 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220526195700 +0700" stop="20220526200500 +0700" channel="TNN16">
+    <title lang="th">TNN Tech Reports</title>
+  </programme>
+  <programme start="20220526200500 +0700" stop="20220526203000 +0700" channel="TNN16">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220526203000 +0700" stop="20220526211500 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220526211500 +0700" stop="20220526211700 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220526211700 +0700" stop="20220526220000 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220526220000 +0700" stop="20220526223000 +0700" channel="TNN16">
+    <title lang="th">Money Delivery</title>
+  </programme>
+  <programme start="20220526223000 +0700" stop="20220527000000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220527000000 +0700" stop="20220527003000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220527003000 +0700" stop="20220527010000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220527010000 +0700" stop="20220527013000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220527013000 +0700" stop="20220527021500 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220527021500 +0700" stop="20220527030000 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220527030000 +0700" stop="20220527043000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220527043000 +0700" stop="20220527050000 +0700" channel="TNN16">
+    <title lang="th">Star Odyssey</title>
+  </programme>
+  <programme start="20220527050000 +0700" stop="20220527053000 +0700" channel="TNN16">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220527053000 +0700" stop="20220527060000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220527060000 +0700" stop="20220527080000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเช้า</title>
+  </programme>
+  <programme start="20220527080000 +0700" stop="20220527083000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220527083000 +0700" stop="20220527090000 +0700" channel="TNN16">
+    <title lang="th">ย่อโลกเศรษฐกิจ</title>
+  </programme>
+  <programme start="20220527090000 +0700" stop="20220527090500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220527090500 +0700" stop="20220527093000 +0700" channel="TNN16">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220527093000 +0700" stop="20220527103000 +0700" channel="TNN16">
+    <title lang="th">TNN ชั่วโมงทำเงิน</title>
+  </programme>
+  <programme start="20220527103000 +0700" stop="20220527110000 +0700" channel="TNN16">
+    <title lang="th">EEC Focus</title>
+  </programme>
+  <programme start="20220527110000 +0700" stop="20220527113000 +0700" channel="TNN16">
+    <title lang="th">การตลาดเงินล้าน</title>
+  </programme>
+  <programme start="20220527113000 +0700" stop="20220527130000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220527130000 +0700" stop="20220527133000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220527133000 +0700" stop="20220527133200 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220527133200 +0700" stop="20220527140000 +0700" channel="TNN16">
+    <title lang="th">คนชนข่าว</title>
+  </programme>
+  <programme start="20220527140000 +0700" stop="20220527140500 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20220527140500 +0700" stop="20220527143000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220527143000 +0700" stop="20220527150000 +0700" channel="TNN16">
+    <title lang="th">อาเซียน Plus</title>
+  </programme>
+  <programme start="20220527150000 +0700" stop="20220527153000 +0700" channel="TNN16">
+    <title lang="th">คนหลังข่าว</title>
+  </programme>
+  <programme start="20220527153000 +0700" stop="20220527170000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเย็น</title>
+  </programme>
+  <programme start="20220527170000 +0700" stop="20220527173000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220527173000 +0700" stop="20220527180000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220527180000 +0700" stop="20220527195700 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220527195700 +0700" stop="20220527200500 +0700" channel="TNN16">
+    <title lang="th">TNN Tech Reports</title>
+  </programme>
+  <programme start="20220527200500 +0700" stop="20220527203000 +0700" channel="TNN16">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220527203000 +0700" stop="20220527211500 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220527211500 +0700" stop="20220527211700 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220527211700 +0700" stop="20220527220000 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220527220000 +0700" stop="20220527223000 +0700" channel="TNN16">
+    <title lang="th">Money Delivery</title>
+  </programme>
+  <programme start="20220527223000 +0700" stop="20220528000000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220528000000 +0700" stop="20220528003000 +0700" channel="TNN16">
+    <title lang="th">เศรษฐกิจ insight</title>
+  </programme>
+  <programme start="20220528003000 +0700" stop="20220528010000 +0700" channel="TNN16">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220528010000 +0700" stop="20220528013000 +0700" channel="TNN16">
+    <title lang="th">TNN ประเด็นใหญ่คลายทุกข์</title>
+  </programme>
+  <programme start="20220528013000 +0700" stop="20220528021500 +0700" channel="TNN16">
+    <title lang="th">Business Watch</title>
+  </programme>
+  <programme start="20220528021500 +0700" stop="20220528030000 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220528030000 +0700" stop="20220528043000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
+  <programme start="20220528043000 +0700" stop="20220528050000 +0700" channel="TNN16">
+    <title lang="th">Star Odyssey</title>
+  </programme>
+  <programme start="20220528050000 +0700" stop="20220528053000 +0700" channel="TNN16">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220528053000 +0700" stop="20220528060000 +0700" channel="TNN16">
+    <title lang="th">อาเซียน Plus</title>
+  </programme>
+  <programme start="20220528060000 +0700" stop="20220528063000 +0700" channel="TNN16">
+    <title lang="th">TNN Health</title>
+  </programme>
+  <programme start="20220528063000 +0700" stop="20220528070000 +0700" channel="TNN16">
+    <title lang="th">พุทธปัญญาภิรมย์</title>
+  </programme>
+  <programme start="20220528070000 +0700" stop="20220528085000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเช้า</title>
+  </programme>
+  <programme start="20220528085000 +0700" stop="20220528090000 +0700" channel="TNN16">
+    <title lang="th">Siam Check-In</title>
+  </programme>
+  <programme start="20220528090000 +0700" stop="20220528093000 +0700" channel="TNN16">
+    <title lang="th">Insight China by หลิวหรง</title>
+  </programme>
+  <programme start="20220528093000 +0700" stop="20220528100000 +0700" channel="TNN16">
+    <title lang="th">TNN Tech Reports</title>
+  </programme>
+  <programme start="20220528100000 +0700" stop="20220528103000 +0700" channel="TNN16">
+    <title lang="th">EEC Focus</title>
+  </programme>
+  <programme start="20220528103000 +0700" stop="20220528110000 +0700" channel="TNN16">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220528110000 +0700" stop="20220528113000 +0700" channel="TNN16">
+    <title lang="th">การตลาดเงินล้าน</title>
+  </programme>
+  <programme start="20220528113000 +0700" stop="20220528130000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220528130000 +0700" stop="20220528133000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220528133000 +0700" stop="20220528133200 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220528133200 +0700" stop="20220528140000 +0700" channel="TNN16">
+    <title lang="th">Big Destination</title>
+  </programme>
+  <programme start="20220528140000 +0700" stop="20220528143000 +0700" channel="TNN16">
+    <title lang="th">กินตามน้ำ</title>
+  </programme>
+  <programme start="20220528143000 +0700" stop="20220528150000 +0700" channel="TNN16">
+    <title lang="th">เกษตรนิวเจน</title>
+  </programme>
+  <programme start="20220528150000 +0700" stop="20220528153000 +0700" channel="TNN16">
+    <title lang="th">TNN Health</title>
+  </programme>
+  <programme start="20220528153000 +0700" stop="20220528170000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวเย็น</title>
+  </programme>
+  <programme start="20220528170000 +0700" stop="20220528180000 +0700" channel="TNN16">
+    <title lang="th">TNN สปอร์ต</title>
+  </programme>
+  <programme start="20220528180000 +0700" stop="20220528200000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220528200000 +0700" stop="20220528203000 +0700" channel="TNN16">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220528203000 +0700" stop="20220528211500 +0700" channel="TNN16">
+    <title lang="th">TNN World Today</title>
+  </programme>
+  <programme start="20220528211500 +0700" stop="20220528211700 +0700" channel="TNN16">
+    <title lang="th">TNN Biz News</title>
+  </programme>
+  <programme start="20220528211700 +0700" stop="20220528220000 +0700" channel="TNN16">
+    <title lang="th">ข่าวดังสุดสัปดาห์</title>
+  </programme>
+  <programme start="20220528220000 +0700" stop="20220528223000 +0700" channel="TNN16">
+    <title lang="th">Meet the Top</title>
+  </programme>
+  <programme start="20220528223000 +0700" stop="20220529000000 +0700" channel="TNN16">
+    <title lang="th">TNN ข่าวดึก</title>
+  </programme>
   <programme start="20220525000000 +0700" stop="20220525001000 +0700" channel="JKN 18">
     <title lang="th">JKN HI Shopping</title>
   </programme>
@@ -7074,6 +7500,588 @@
     <title lang="th">AMADO SHOPPING</title>
   </programme>
   <programme start="20220526233500 +0700" stop="20220527000000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527000000 +0700" stop="20220527002500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527002500 +0700" stop="20220527003500 +0700" channel="Amarin TV">
+    <title lang="th">อาจารย์อ๊อฟ IT EXPERT มาดูออนไลน์</title>
+  </programme>
+  <programme start="20220527003500 +0700" stop="20220527010000 +0700" channel="Amarin TV">
+    <title lang="th">ท่องโลก</title>
+  </programme>
+  <programme start="20220527010000 +0700" stop="20220527013000 +0700" channel="Amarin TV">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220527013000 +0700" stop="20220527020000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน</title>
+  </programme>
+  <programme start="20220527020000 +0700" stop="20220527023000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง</title>
+  </programme>
+  <programme start="20220527023000 +0700" stop="20220527030000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220527030000 +0700" stop="20220527043000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527043000 +0700" stop="20220527053000 +0700" channel="Amarin TV">
+    <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20220527053000 +0700" stop="20220527061500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20220527061500 +0700" stop="20220527080000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220527080000 +0700" stop="20220527080100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220527080100 +0700" stop="20220527084500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220527084500 +0700" stop="20220527085500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527085500 +0700" stop="20220527095000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย</title>
+  </programme>
+  <programme start="20220527095000 +0700" stop="20220527100000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527100000 +0700" stop="20220527103000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง รีรัน</title>
+  </programme>
+  <programme start="20220527103000 +0700" stop="20220527110000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รีรัน</title>
+  </programme>
+  <programme start="20220527110000 +0700" stop="20220527133000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20220527133000 +0700" stop="20220527140000 +0700" channel="Amarin TV">
+    <title lang="th">APOP Today</title>
+  </programme>
+  <programme start="20220527140000 +0700" stop="20220527141000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527141000 +0700" stop="20220527151000 +0700" channel="Amarin TV">
+    <title lang="th">ป่ากามเทพ รีรัน</title>
+  </programme>
+  <programme start="20220527151000 +0700" stop="20220527153500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิต...เหลือเชื่อ</title>
+  </programme>
+  <programme start="20220527153500 +0700" stop="20220527154500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527154500 +0700" stop="20220527164500 +0700" channel="Amarin TV">
+    <title lang="th">สภากาแฟ 4.0 ยกล้อ</title>
+  </programme>
+  <programme start="20220527164500 +0700" stop="20220527165500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220527165500 +0700" stop="20220527172000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
+  </programme>
+  <programme start="20220527172000 +0700" stop="20220527180000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220527180000 +0700" stop="20220527180100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220527180100 +0700" stop="20220527182000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220527182000 +0700" stop="20220527185000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รวมฮิต</title>
+  </programme>
+  <programme start="20220527185000 +0700" stop="20220527200000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220527200000 +0700" stop="20220527201500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220527201500 +0700" stop="20220527223000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220527223000 +0700" stop="20220527230000 +0700" channel="Amarin TV">
+    <title lang="th">พี่อ้อย พี่ฉอด ตัวต่อตัว</title>
+  </programme>
+  <programme start="20220527230000 +0700" stop="20220527233000 +0700" channel="Amarin TV">
+    <title lang="th">อมรินทร์ทีวี ออนไลน์</title>
+  </programme>
+  <programme start="20220527233000 +0700" stop="20220527233500 +0700" channel="Amarin TV">
+    <title lang="th">AMADO SHOPPING</title>
+  </programme>
+  <programme start="20220527233500 +0700" stop="20220528000000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528000000 +0700" stop="20220528002500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528002500 +0700" stop="20220528003500 +0700" channel="Amarin TV">
+    <title lang="th">อาจารย์อ๊อฟ IT EXPERT มาดูออนไลน์</title>
+  </programme>
+  <programme start="20220528003500 +0700" stop="20220528010000 +0700" channel="Amarin TV">
+    <title lang="th">ท่องโลก</title>
+  </programme>
+  <programme start="20220528010000 +0700" stop="20220528013000 +0700" channel="Amarin TV">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220528013000 +0700" stop="20220528020000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน</title>
+  </programme>
+  <programme start="20220528020000 +0700" stop="20220528023000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง</title>
+  </programme>
+  <programme start="20220528023000 +0700" stop="20220528030000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220528030000 +0700" stop="20220528043000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528043000 +0700" stop="20220528053000 +0700" channel="Amarin TV">
+    <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20220528053000 +0700" stop="20220528060000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รวมฮิต</title>
+  </programme>
+  <programme start="20220528060000 +0700" stop="20220528064500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20220528064500 +0700" stop="20220528080000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ สุดสัปดาห์</title>
+  </programme>
+  <programme start="20220528080000 +0700" stop="20220528080100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220528080100 +0700" stop="20220528090000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ สุดสัปดาห์</title>
+  </programme>
+  <programme start="20220528090000 +0700" stop="20220528093000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง</title>
+  </programme>
+  <programme start="20220528093000 +0700" stop="20220528100000 +0700" channel="Amarin TV">
+    <title lang="th">ชลรัศมีกับวีไอพี ปี 14</title>
+  </programme>
+  <programme start="20220528100000 +0700" stop="20220528103000 +0700" channel="Amarin TV">
+    <title lang="th">ช่างประจำบ้าน</title>
+  </programme>
+  <programme start="20220528103000 +0700" stop="20220528110000 +0700" channel="Amarin TV">
+    <title lang="th">Z Story Z Holiday</title>
+  </programme>
+  <programme start="20220528110000 +0700" stop="20220528120000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20220528120000 +0700" stop="20220528123000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน</title>
+  </programme>
+  <programme start="20220528123000 +0700" stop="20220528132500 +0700" channel="Amarin TV">
+    <title lang="th">Fight For Her เธอสั่งลุย</title>
+  </programme>
+  <programme start="20220528132500 +0700" stop="20220528133000 +0700" channel="Amarin TV">
+    <title lang="th">โลก 360 องศา</title>
+  </programme>
+  <programme start="20220528133000 +0700" stop="20220528134000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528134000 +0700" stop="20220528141000 +0700" channel="Amarin TV">
+    <title lang="th">Follow Me เที่ยวไหนไปกัน</title>
+  </programme>
+  <programme start="20220528141000 +0700" stop="20220528142000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528142000 +0700" stop="20220528145000 +0700" channel="Amarin TV">
+    <title lang="th">จานนี้ดีจัง</title>
+  </programme>
+  <programme start="20220528145000 +0700" stop="20220528152000 +0700" channel="Amarin TV">
+    <title lang="th">ว้าว! แหวน แหวน</title>
+  </programme>
+  <programme start="20220528152000 +0700" stop="20220528153000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220528153000 +0700" stop="20220528160000 +0700" channel="Amarin TV">
+    <title lang="th">เที่ยวไม่ซ้ำทาง</title>
+  </programme>
+  <programme start="20220528160000 +0700" stop="20220528163000 +0700" channel="Amarin TV">
+    <title lang="th">เรื่องบ้านบ้าน</title>
+  </programme>
+  <programme start="20220528163000 +0700" stop="20220528170000 +0700" channel="Amarin TV">
+    <title lang="th">ซุปตาร์พาตะลุย The S-File</title>
+  </programme>
+  <programme start="20220528170000 +0700" stop="20220528180000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220528180000 +0700" stop="20220528180100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220528180100 +0700" stop="20220528190000 +0700" channel="Amarin TV">
+    <title lang="th">คู่ซ่าปลาไพ</title>
+  </programme>
+  <programme start="20220528190000 +0700" stop="20220528200000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220528200000 +0700" stop="20220528201500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220528201500 +0700" stop="20220528213000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220528213000 +0700" stop="20220528223000 +0700" channel="Amarin TV">
+    <title lang="th">ป่ากามเทพ</title>
+  </programme>
+  <programme start="20220528223000 +0700" stop="20220528233000 +0700" channel="Amarin TV">
+    <title lang="th">รักวุ่นวายนายรสแซ่บ</title>
+  </programme>
+  <programme start="20220528233000 +0700" stop="20220529000000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529000000 +0700" stop="20220529002500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529002500 +0700" stop="20220529003500 +0700" channel="Amarin TV">
+    <title lang="th">อาจารย์อ๊อฟ IT EXPERT มาดูออนไลน์</title>
+  </programme>
+  <programme start="20220529003500 +0700" stop="20220529010000 +0700" channel="Amarin TV">
+    <title lang="th">ท่องโลก</title>
+  </programme>
+  <programme start="20220529010000 +0700" stop="20220529013000 +0700" channel="Amarin TV">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220529013000 +0700" stop="20220529020000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน</title>
+  </programme>
+  <programme start="20220529020000 +0700" stop="20220529023000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง</title>
+  </programme>
+  <programme start="20220529023000 +0700" stop="20220529030000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220529030000 +0700" stop="20220529043000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529043000 +0700" stop="20220529053000 +0700" channel="Amarin TV">
+    <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20220529053000 +0700" stop="20220529060000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รวมฮิต</title>
+  </programme>
+  <programme start="20220529060000 +0700" stop="20220529064500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20220529064500 +0700" stop="20220529080000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ สุดสัปดาห์</title>
+  </programme>
+  <programme start="20220529080000 +0700" stop="20220529080100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220529080100 +0700" stop="20220529090000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ สุดสัปดาห์</title>
+  </programme>
+  <programme start="20220529090000 +0700" stop="20220529093000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง</title>
+  </programme>
+  <programme start="20220529093000 +0700" stop="20220529102000 +0700" channel="Amarin TV">
+    <title lang="th">บ้านและสวน</title>
+  </programme>
+  <programme start="20220529102000 +0700" stop="20220529103000 +0700" channel="Amarin TV">
+    <title lang="th">อมรินทร์ทีวี ออนไลน์</title>
+  </programme>
+  <programme start="20220529103000 +0700" stop="20220529110000 +0700" channel="Amarin TV">
+    <title lang="th">Z Story Z Holiday</title>
+  </programme>
+  <programme start="20220529110000 +0700" stop="20220529120000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20220529120000 +0700" stop="20220529123000 +0700" channel="Amarin TV">
+    <title lang="th">อาหารนำทาง</title>
+  </programme>
+  <programme start="20220529123000 +0700" stop="20220529130000 +0700" channel="Amarin TV">
+    <title lang="th">เรื่องเด็ดเอ็ดตะโร</title>
+  </programme>
+  <programme start="20220529130000 +0700" stop="20220529132500 +0700" channel="Amarin TV">
+    <title lang="th">คุยยกบ้าน</title>
+  </programme>
+  <programme start="20220529132500 +0700" stop="20220529133000 +0700" channel="Amarin TV">
+    <title lang="th">โลก 360 องศา</title>
+  </programme>
+  <programme start="20220529133000 +0700" stop="20220529134000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529134000 +0700" stop="20220529141000 +0700" channel="Amarin TV">
+    <title lang="th">คุณนายจ่ายตลาด</title>
+  </programme>
+  <programme start="20220529141000 +0700" stop="20220529142000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529142000 +0700" stop="20220529145000 +0700" channel="Amarin TV">
+    <title lang="th">Smart Energy</title>
+  </programme>
+  <programme start="20220529145000 +0700" stop="20220529150500 +0700" channel="Amarin TV">
+    <title lang="th">อมรินทร์ทีวี ออนไลน์</title>
+  </programme>
+  <programme start="20220529150500 +0700" stop="20220529152000 +0700" channel="Amarin TV">
+    <title lang="th">โฮปประกายแสง แห่งความหวัง</title>
+  </programme>
+  <programme start="20220529152000 +0700" stop="20220529153000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220529153000 +0700" stop="20220529160000 +0700" channel="Amarin TV">
+    <title lang="th">เม้าท์อยู่กับปาก อยากอยู่กับคิ้ม</title>
+  </programme>
+  <programme start="20220529160000 +0700" stop="20220529163000 +0700" channel="Amarin TV">
+    <title lang="th">Room Secret</title>
+  </programme>
+  <programme start="20220529163000 +0700" stop="20220529170000 +0700" channel="Amarin TV">
+    <title lang="th">POSITIF SUNDAY</title>
+  </programme>
+  <programme start="20220529170000 +0700" stop="20220529180000 +0700" channel="Amarin TV">
+    <title lang="th">อมรินทร์ ซูเปอร์ไฟต์ ชุด ศึกช้างมวยไทยเกียรติเพชร</title>
+  </programme>
+  <programme start="20220529180000 +0700" stop="20220529180100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220529180100 +0700" stop="20220529190000 +0700" channel="Amarin TV">
+    <title lang="th">อมรินทร์ ซูเปอร์ไฟต์ ชุด ศึกช้างมวยไทยเกียรติเพชร</title>
+  </programme>
+  <programme start="20220529190000 +0700" stop="20220529200000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220529200000 +0700" stop="20220529201500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220529201500 +0700" stop="20220529213000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220529213000 +0700" stop="20220529223000 +0700" channel="Amarin TV">
+    <title lang="th">ป่ากามเทพ</title>
+  </programme>
+  <programme start="20220529223000 +0700" stop="20220529230000 +0700" channel="Amarin TV">
+    <title lang="th">APOP Tonight</title>
+  </programme>
+  <programme start="20220529230000 +0700" stop="20220529233000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รีรัน</title>
+  </programme>
+  <programme start="20220529233000 +0700" stop="20220530000000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530000000 +0700" stop="20220530002500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530002500 +0700" stop="20220530003500 +0700" channel="Amarin TV">
+    <title lang="th">อาจารย์อ๊อฟ IT EXPERT มาดูออนไลน์</title>
+  </programme>
+  <programme start="20220530003500 +0700" stop="20220530010000 +0700" channel="Amarin TV">
+    <title lang="th">ท่องโลก</title>
+  </programme>
+  <programme start="20220530010000 +0700" stop="20220530013000 +0700" channel="Amarin TV">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220530013000 +0700" stop="20220530023000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิต...เหลือเชื่อ</title>
+  </programme>
+  <programme start="20220530023000 +0700" stop="20220530030000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220530030000 +0700" stop="20220530043000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530043000 +0700" stop="20220530053000 +0700" channel="Amarin TV">
+    <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20220530053000 +0700" stop="20220530061500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20220530061500 +0700" stop="20220530080000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220530080000 +0700" stop="20220530080100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220530080100 +0700" stop="20220530084500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220530084500 +0700" stop="20220530085500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530085500 +0700" stop="20220530095000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย</title>
+  </programme>
+  <programme start="20220530095000 +0700" stop="20220530100000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530100000 +0700" stop="20220530103000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง รีรัน</title>
+  </programme>
+  <programme start="20220530103000 +0700" stop="20220530110000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รีรัน</title>
+  </programme>
+  <programme start="20220530110000 +0700" stop="20220530133000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20220530133000 +0700" stop="20220530140000 +0700" channel="Amarin TV">
+    <title lang="th">APOP Today</title>
+  </programme>
+  <programme start="20220530140000 +0700" stop="20220530141000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530141000 +0700" stop="20220530151000 +0700" channel="Amarin TV">
+    <title lang="th">ทะเลแปร รีรัน</title>
+  </programme>
+  <programme start="20220530151000 +0700" stop="20220530153500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิต...เหลือเชื่อ</title>
+  </programme>
+  <programme start="20220530153500 +0700" stop="20220530154500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530154500 +0700" stop="20220530164500 +0700" channel="Amarin TV">
+    <title lang="th">คู่ซ่าปลาไพ รีรัน</title>
+  </programme>
+  <programme start="20220530164500 +0700" stop="20220530165500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220530165500 +0700" stop="20220530172000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
+  </programme>
+  <programme start="20220530172000 +0700" stop="20220530180000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220530180000 +0700" stop="20220530180100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220530180100 +0700" stop="20220530182000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220530182000 +0700" stop="20220530185000 +0700" channel="Amarin TV">
+    <title lang="th">เรื่องเด็ดเอ็ดตะโร</title>
+  </programme>
+  <programme start="20220530185000 +0700" stop="20220530200000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220530200000 +0700" stop="20220530201500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220530201500 +0700" stop="20220530223000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220530223000 +0700" stop="20220530233000 +0700" channel="Amarin TV">
+    <title lang="th">Fight For Her เธอสั่งลุย รีรัน</title>
+  </programme>
+  <programme start="20220530233000 +0700" stop="20220530233500 +0700" channel="Amarin TV">
+    <title lang="th">AMADO SHOPPING</title>
+  </programme>
+  <programme start="20220530233500 +0700" stop="20220531000000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531000000 +0700" stop="20220531002500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531002500 +0700" stop="20220531003500 +0700" channel="Amarin TV">
+    <title lang="th">อาจารย์อ๊อฟ IT EXPERT มาดูออนไลน์</title>
+  </programme>
+  <programme start="20220531003500 +0700" stop="20220531010000 +0700" channel="Amarin TV">
+    <title lang="th">ท่องโลก</title>
+  </programme>
+  <programme start="20220531010000 +0700" stop="20220531013000 +0700" channel="Amarin TV">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220531013000 +0700" stop="20220531023000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิต...เหลือเชื่อ</title>
+  </programme>
+  <programme start="20220531023000 +0700" stop="20220531030000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220531030000 +0700" stop="20220531043000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531043000 +0700" stop="20220531053000 +0700" channel="Amarin TV">
+    <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20220531053000 +0700" stop="20220531061500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20220531061500 +0700" stop="20220531080000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220531080000 +0700" stop="20220531080100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220531080100 +0700" stop="20220531084500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20220531084500 +0700" stop="20220531085500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531085500 +0700" stop="20220531095000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย</title>
+  </programme>
+  <programme start="20220531095000 +0700" stop="20220531100000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531100000 +0700" stop="20220531103000 +0700" channel="Amarin TV">
+    <title lang="th">ชีพจรลงพุง รีรัน</title>
+  </programme>
+  <programme start="20220531103000 +0700" stop="20220531110000 +0700" channel="Amarin TV">
+    <title lang="th">ตามอำเภอจาน รีรัน</title>
+  </programme>
+  <programme start="20220531110000 +0700" stop="20220531133000 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20220531133000 +0700" stop="20220531140000 +0700" channel="Amarin TV">
+    <title lang="th">APOP Today</title>
+  </programme>
+  <programme start="20220531140000 +0700" stop="20220531141000 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531141000 +0700" stop="20220531151000 +0700" channel="Amarin TV">
+    <title lang="th">ทะเลแปร รีรัน</title>
+  </programme>
+  <programme start="20220531151000 +0700" stop="20220531153500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิต...เหลือเชื่อ</title>
+  </programme>
+  <programme start="20220531153500 +0700" stop="20220531154500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531154500 +0700" stop="20220531164500 +0700" channel="Amarin TV">
+    <title lang="th">ซุปตาร์ พาตะลุย รีรัน</title>
+  </programme>
+  <programme start="20220531164500 +0700" stop="20220531165500 +0700" channel="Amarin TV">
+    <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
+  </programme>
+  <programme start="20220531165500 +0700" stop="20220531172000 +0700" channel="Amarin TV">
+    <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
+  </programme>
+  <programme start="20220531172000 +0700" stop="20220531180000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220531180000 +0700" stop="20220531180100 +0700" channel="Amarin TV">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220531180100 +0700" stop="20220531182000 +0700" channel="Amarin TV">
+    <title lang="th">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20220531182000 +0700" stop="20220531185000 +0700" channel="Amarin TV">
+    <title lang="th">เรื่องเด็ดเอ็ดตะโร</title>
+  </programme>
+  <programme start="20220531185000 +0700" stop="20220531200000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220531200000 +0700" stop="20220531201500 +0700" channel="Amarin TV">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220531201500 +0700" stop="20220531223000 +0700" channel="Amarin TV">
+    <title lang="th">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20220531223000 +0700" stop="20220531230000 +0700" channel="Amarin TV">
+    <title lang="th">กบนอกกะลา</title>
+  </programme>
+  <programme start="20220531230000 +0700" stop="20220531233000 +0700" channel="Amarin TV">
+    <title lang="th">นาทีระทึก</title>
+  </programme>
+  <programme start="20220531233000 +0700" stop="20220531233500 +0700" channel="Amarin TV">
+    <title lang="th">AMADO SHOPPING</title>
+  </programme>
+  <programme start="20220531233500 +0700" stop="20220601000000 +0700" channel="Amarin TV">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
   <programme start="20220525000000 +0700" stop="20220525001000 +0700" channel="CH7 HD">
