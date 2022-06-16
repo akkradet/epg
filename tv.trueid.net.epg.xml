@@ -2124,7 +2124,7 @@
     <episode-num system="onscreen">S7 E20</episode-num>
   </programme>
   <programme start="20220616053000 +0700" stop="20220616060000 +0700" channel="ทรูโฟร์ยู">
-    <title lang="th">ติดเขา   [ 2 ]</title>
+    <title lang="th">ติดเขา</title>
     <sub-title lang="th">004</sub-title>
     <episode-num system="onscreen">S8 E4</episode-num>
   </programme>
@@ -2161,22 +2161,22 @@
     <title lang="th">TNN ข่าวเที่ยง</title>
     <episode-num system="onscreen">S15 E1</episode-num>
   </programme>
-  <programme start="20220616123000 +0700" stop="20220616142500 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220616123000 +0700" stop="20220616142200 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภ.เดร็ด คนหน้ากากทมิฬ</title>
     <sub-title lang="th">DREDD</sub-title>
     <episode-num system="onscreen">S16 E1</episode-num>
   </programme>
-  <programme start="20220616142500 +0700" stop="20220616143500 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220616142200 +0700" stop="20220616143200 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ทรูช้อปปิ้ง</title>
     <sub-title lang="th">201198 ARROW LITE T-SHIRT แขนยาวเจาะสาปโปโล3ตัวแถม2ตัวV.2Q5</sub-title>
     <episode-num system="onscreen">S17 E87</episode-num>
   </programme>
-  <programme start="20220616143500 +0700" stop="20220616163000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220616143200 +0700" stop="20220616162800 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภาพยนตร์ พยัคฆ์ร้ายกิโยติน</title>
     <sub-title lang="th">GUILLOTINES, THE</sub-title>
     <episode-num system="onscreen">S18 E1</episode-num>
   </programme>
-  <programme start="20220616163000 +0700" stop="20220616180000 +0700" channel="ทรูโฟร์ยู">
+  <programme start="20220616162800 +0700" stop="20220616180000 +0700" channel="ทรูโฟร์ยู">
     <title lang="th">ภาพยนตร์ รักละไมล์</title>
     <sub-title lang="th">รักละไมล์</sub-title>
     <episode-num system="onscreen">S19 E1</episode-num>
