@@ -11,7 +11,7 @@ echo Script started at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
 
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 del %USERPROFILE%\AppData\Local\WebGrab+Plus\WebGrab++.config.xml /Q
-xcopy /S /I /Q /Y /F "D:\Git\epg_encrypted\aisplay.config.xml" "%USERPROFILE%\AppData\Local\WebGrab+Plus\"
+xcopy /S /I /Q /Y /F "D:\Git\epg_encrypted\aisplay.config.xml" "%USERPROFILE%\AppData\Local\WebGrab+Plus\WebGrab++.config.xml"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe"
 xcopy /S /I /Q /Y /F "%USERPROFILE%\AppData\Local\WebGrab+Plus\aisplay.ais.co.th.epg.xml" .
 tar zcvf aisplay.ais.co.th.epg.xml.gz aisplay.ais.co.th.epg.xml
