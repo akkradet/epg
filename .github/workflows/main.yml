@@ -53,8 +53,6 @@ jobs:
       run: |
         cd epg-grabber
         php tempest.php --epg config=tempest.config.xml invgz
-        rm -f tempest_config/epg/tempest_with_details.xml
-        rm -f tempest_config/epg/tempest.xml
 
     # Step 8: Commit updated epg.xml
     - name: Commit and push updated epg.xml
