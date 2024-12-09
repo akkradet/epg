@@ -1,0 +1,50 @@
+name: Tempest Config Setup and Docker Run
+
+on:
+  schedule:
+    - cron: '0 * * * *' # รันทุก 1 ชั่วโมง (ที่นาที 0 ของทุกชั่วโมง)
+  workflow_dispatch: # รองรับการ trigger ด้วยมือ
+
+jobs:
+  setup-and-run-docker:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Create tempest_config and php-user.ini
+      - name: Create tempest_config and php-user.ini
+        run: |
+          mkdir -p tempest_config
+          cd tempest_config
+          echo "[Date]" >> php-user.ini
+          echo "date.timezone=Asia/Bangkok" >> php-user.ini
+          echo "[Memory]" >> php-user.ini
+          echo "memory_limit = -1" >> php-user.ini
+
+      # Step 3: Set permissions for tempest_config
+      - name: Set permissions for tempest_config
+        run: chmod -R 777 tempest_config
+
+      # Step 4: Run Docker container
+      - name: Run Tempest Docker container
+        run: |
+          docker run --name tempest_container -d -p 80:8095 \
+          -v "$PWD/tempest_config/php-user.ini:/etc/php82/conf.d/custom.ini" \
+          -v "$PWD/tempest_config:/var/www/html/tempest_config/" \
+          kvanc/tempest_epg
+
+      # Step 5: Execute Tempest script inside the container
+      - name: Run Tempest script
+        run: |
+          docker exec -u root tempest_container php /var/www/html/tempest.php --epg
+
+      # Step 6: Commit and push updated EPG
+      - name: Commit and Push Updates
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated EPG update"
+          branch: main
+          file_pattern: "tempest_config/**"
