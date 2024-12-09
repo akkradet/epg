@@ -7,63 +7,80 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: '0 1 * * *'
-  workflow_dispatch:
+
 jobs:
   generate-ssh-key-and-run:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout public repository
+    # Step 1: Checkout the public repository
     - name: Checkout public repository
       uses: actions/checkout@v2
 
-    # Step 2: Configure SSH key
-    - name: Configure SSH key
+    # Step 2: Generate SSH key
+    - name: Generate SSH key
+      id: ssh_key
+      run: |
+        # Generate a new SSH key pair (private and public) using ssh-keygen
+        ssh-keygen -t rsa -b 4096 -C "github-action@github.com" -f ~/.ssh/id_rsa -N ""
+        echo "Private key generated"
+        echo "Public key generated"
+        # Show public key (you'll need to add this to GitHub)
+        cat ~/.ssh/id_rsa.pub
+        # Save private key for next steps (don't use set-output anymore)
+        echo "PRIVATE_KEY=$(cat ~/.ssh/id_rsa)" >> $GITHUB_ENV
+        echo "Add the following SSH public key to your GitHub repository's SSH keys: $(cat ~/.ssh/id_rsa.pub)"
+
+    # Step 3: Add SSH public key to GitHub's known hosts
+    - name: Set up SSH known hosts
       run: |
         mkdir -p ~/.ssh
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        eval $(ssh-agent -s)
-        ssh-add ~/.ssh/id_rsa
-        ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Test SSH connection (This step is optional)
-    - name: Test SSH connection
+    # Step 4: Clone the private repository using SSH
+    - name: Clone private repository using SSH
       run: |
-        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
+        # Make sure SSH key is available for the current session
+        echo "$PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        git clone git@github.com:akkradet/epg-grabber.git
+        cd epg-grabber
 
-    # Step 4: Clone private repository
-    - name: Clone private repository
-      run: git clone git@github.com:akkradet/epg-grabber.git
+    # Step 5: Checkout code (for PHP steps)
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-    # Step 5: Setup PHP environment
+    # Step 6: Set up Git identity
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+    # Step 7: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
       with:
-        php-version: 8.3
+        php-version: 8.3 # Specify correct PHP version
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
 
-    # Step 6: Verify PHP installation
+    # Step 8: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
 
-    # Step 7: Run Tempest script
+    # Step 9: Run Tempest script
     - name: Run Tempest script
       run: |
-        cd epg-grabber
         php tempest.php --epg config=tempest.config.xml invgz
+        rm -f tempest_config/epg/tempest_with_details.xml
+        rm -f tempest_config/epg/tempest.xml
 
-    # Step 8: Pull latest from the repository
+    # Step 10: Pull latest from the repository
     - name: Pull latest
       run: git pull
 
-    # Step 9: Commit and push updated epg.xml
+    # Step 11: Commit and push updated epg.xml
     - name: Commit updated epg.xml
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-          commit_message: "Automated EPG update"
-          branch: main
-          file_pattern: "tempest_config/**"
+        commit_message: "Automated EPG update"
