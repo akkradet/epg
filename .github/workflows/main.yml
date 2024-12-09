@@ -27,10 +27,10 @@ jobs:
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Test SSH key
+    # Step 3: Test SSH connection (This step is optional)
     - name: Test SSH connection
       run: |
-        ssh -T git@github.com
+        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
 
     # Step 4: Clone private repository
     - name: Clone private repository
