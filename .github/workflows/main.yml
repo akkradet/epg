@@ -57,16 +57,6 @@ jobs:
         ls -la tempest_config/epg  # List files before removal
 
 # Step 8: Commit updated epg.xml
-    - name: Check files before running commit action
-      run: |
-        ls -la epg-grabber/tempest_config/epg
-        cat epg-grabber/tempest_config/epg/guide.xml || echo "File not found"
-
-    - name: Stage modified files
-      run: |
-        git add tempest_config/epg/*.xml
-        git status
-
     - name: Commit and push updated epg.xml
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
