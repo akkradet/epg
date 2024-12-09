@@ -56,10 +56,12 @@ jobs:
         cd epg-grabber
         php tempest.php --epg config=tempest.config.xml invgz
 
-    # Step 8: Commit updated epg.xml
-    - name: Commit and push updated epg.xml
+    # Step 8: Pull latest from the repository
+    - name: Pull latest
+      run: git pull
+
+    # Step 9: Commit and push updated epg.xml
+    - name: Commit updated epg.xml
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Automated EPG update"
-        branch: main
-        file_pattern: "epg/*.xml"
