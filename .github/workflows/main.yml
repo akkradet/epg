@@ -47,4 +47,4 @@ jobs:
         with:
           commit_message: "Automated EPG update"
           branch: main
-          file_pattern: "tempest_config/**"
+          file_pattern: "tempest_config/epg/*.xml"
