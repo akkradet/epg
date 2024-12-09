@@ -1,50 +1,56 @@
-name: Tempest Config Setup and Docker Run
+name: main
 
 on:
-  schedule:
-    - cron: '0 * * * *' # รันทุก 1 ชั่วโมง (ที่นาที 0 ของทุกชั่วโมง)
-  workflow_dispatch: # รองรับการ trigger ด้วยมือ
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  setup-and-run-docker:
+  generate-ssh-key-and-run:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the code
-      - name: Checkout code
-        uses: actions/checkout@v3
+    # Step 1: Checkout public repository
+    - name: Checkout public repository
+      uses: actions/checkout@v2
 
-      # Step 2: Create tempest_config and php-user.ini
-      - name: Create tempest_config and php-user.ini
-        run: |
-          mkdir -p tempest_config
-          cd tempest_config
-          echo "[Date]" >> php-user.ini
-          echo "date.timezone=Asia/Bangkok" >> php-user.ini
-          echo "[Memory]" >> php-user.ini
-          echo "memory_limit = -1" >> php-user.ini
+    # Step 2: Configure SSH key
+    - name: Configure SSH key
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
 
-      # Step 3: Set permissions for tempest_config
-      - name: Set permissions for tempest_config
-        run: chmod -R 777 tempest_config
+    # Step 3: Clone private repository
+    - name: Clone private repository
+      run: git clone git@github.com:akkradet/epg-grabber.git
 
-      # Step 4: Run Docker container
-      - name: Run Tempest Docker container
-        run: |
-          docker run --name tempest_container -d -p 80:8095 \
-          -v "$PWD/tempest_config/php-user.ini:/etc/php82/conf.d/custom.ini" \
-          -v "$PWD/tempest_config:/var/www/html/tempest_config/" \
-          kvanc/tempest_epg
+    # Step 4: Setup PHP environment
+    - name: Setup PHP
+      uses: shivammathur/setup-php@2.31.1
+      with:
+        php-version: 8.3
+        extensions: xml, imagick, zip, curl
+        ini-values: memory_limit=-1
 
-      # Step 5: Execute Tempest script inside the container
-      - name: Run Tempest script
-        run: |
-          docker exec -u root tempest_container php /var/www/html/tempest.php --epg
+    # Step 5: Verify PHP installation
+    - name: Verify PHP installation
+      run: php -v
 
-      # Step 6: Commit and push updated EPG
-      - name: Commit and Push Updates
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Automated EPG update"
-          branch: main
-          file_pattern: "tempest_config/epg/*.xml"
+    # Step 6: Run Tempest script
+    - name: Run Tempest script
+      run: |
+        php tempest.php --epg config=tempest.config.xml invgz
+        rm -f tempest_config/epg/tempest_with_details.xml
+        rm -f tempest_config/epg/tempest.xml
+
+    # Step 7: Commit updated epg.xml
+    - name: Commit and push updated epg.xml
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated EPG update"
+        file_pattern: "tempest_config/epg/*.xml"
