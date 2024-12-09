@@ -27,11 +27,16 @@ jobs:
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Clone private repository
+    # Step 3: Test SSH key
+    - name: Test SSH connection
+      run: |
+        ssh -T git@github.com
+
+    # Step 4: Clone private repository
     - name: Clone private repository
       run: git clone git@github.com:akkradet/epg-grabber.git
 
-    # Step 4: Setup PHP environment
+    # Step 5: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
       with:
@@ -39,11 +44,11 @@ jobs:
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
 
-    # Step 5: Verify PHP installation
+    # Step 6: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
 
-    # Step 6: Run Tempest script
+    # Step 7: Run Tempest script
     - name: Run Tempest script
       run: |
         cd epg-grabber
@@ -51,7 +56,7 @@ jobs:
         rm -f tempest_config/epg/tempest_with_details.xml
         rm -f tempest_config/epg/tempest.xml
 
-    # Step 7: Commit updated epg.xml
+    # Step 8: Commit updated epg.xml
     - name: Commit and push updated epg.xml
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
