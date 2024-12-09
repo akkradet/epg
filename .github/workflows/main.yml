@@ -17,42 +17,27 @@ jobs:
     - name: Checkout public repository
       uses: actions/checkout@v2
 
-    # Step 2: Generate SSH key
-    - name: Generate SSH key
-      id: ssh_key
-      run: |
-        # Generate a new SSH key pair (private and public) using ssh-keygen
-        ssh-keygen -t rsa -b 4096 -C "github-action@github.com" -f ~/.ssh/id_rsa -N ""
-        echo "Private key generated"
-        echo "Public key generated"
-        # Show public key (you'll need to add this to GitHub)
-        cat ~/.ssh/id_rsa.pub
-        # Save private key for next steps
-        echo "PRIVATE_KEY=$(cat ~/.ssh/id_rsa)" >> $GITHUB_ENV  # This is the key fix
-        echo "Add the following SSH public key to your GitHub repository's SSH keys: $(cat ~/.ssh/id_rsa.pub)"
-
-    # Step 3: Add SSH public key to GitHub's known hosts
-    - name: Set up SSH known hosts
+    # Step 2: Configure SSH key
+    - name: Configure SSH key
       run: |
         mkdir -p ~/.ssh
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
-
-    # Step 4: Clone the private repository using SSH
-    - name: Clone private repository using SSH
-      run: |
-        # Ensure SSH key is available for the current session
-        mkdir -p ~/.ssh
-        echo "$PRIVATE_KEY" > ~/.ssh/id_rsa
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
-        git clone git@github.com:akkradet/epg-grabber.git
-        cd epg-grabber
-        # Test SSH connection (This step is optional)
-        
+        eval $(ssh-agent -s)
+        ssh-add ~/.ssh/id_rsa
+        ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+
+    # Step 3: Test SSH connection (This step is optional)
     - name: Test SSH connection
       run: |
         ssh -T git@github.com || true  # This will not fail the job even with exit code 1
-        echo "SSH connection test completed"
+
+    # Step 4: Clone private repository
+    - name: Clone private repository
+      run: | 
+        git clone git@github.com:akkradet/epg-grabber.git
+        cd epg-grabber
+      
 
     # Step 5: Checkout code (for PHP steps)
     - name: Checkout code
