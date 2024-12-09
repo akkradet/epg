@@ -23,7 +23,9 @@ jobs:
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
-        ssh-agent bash -c "ssh-add ~/.ssh/id_rsa; ssh-keyscan -H github.com >> ~/.ssh/known_hosts"
+        eval $(ssh-agent -s)  # Start the ssh-agent
+        ssh-add ~/.ssh/id_rsa   # Add the private key to the agent
+        ssh-keyscan -H github.com >> ~/.ssh/known_hosts  # Add GitHub's public key
 
     # Step 3: Clone private repository
     - name: Clone private repository
