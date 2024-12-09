@@ -34,46 +34,52 @@ jobs:
 
     # Step 4: Clone private repository
     - name: Clone private repository
-      run: | 
+      run: |
         git clone git@github.com:akkradet/epg-grabber.git
         cd epg-grabber
-      
 
-    # Step 5: Checkout code (for PHP steps)
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    # Step 6: Set up Git identity
-    - name: Set up Git identity
-      run: |
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
-
-    # Step 7: Setup PHP environment
+    # Step 5: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
       with:
-        php-version: 8.3 # Specify correct PHP version
+        php-version: 8.3  # Specify correct PHP version
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
 
-    # Step 8: Verify PHP installation
+    # Step 6: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
 
-    # Step 9: Run Tempest script
+    # Step 7: Check if tempest.php exists
+    - name: Check if tempest.php exists
+      run: |
+        ls -l tempest.php
+        # Optional: Check for the file within the epg-grabber directory
+        cd epg-grabber
+        ls -l tempest.php
+        # Exit if the file is not found
+        if [ ! -f tempest.php ]; then
+          echo "tempest.php not found!"
+          exit 1
+        fi
+
+    # Step 8: Run Tempest script
     - name: Run Tempest script
       run: |
+        cd epg-grabber
         php tempest.php --epg config=tempest.config.xml invgz
         rm -f tempest_config/epg/tempest_with_details.xml
         rm -f tempest_config/epg/tempest.xml
 
-    # Step 10: Pull latest from the repository
-    - name: Pull latest
-      run: git pull
+    # Step 9: Pull latest changes from the repository after script execution
+    - name: Pull latest changes
+      run: |
+        cd epg-grabber
+        git pull
 
-    # Step 11: Commit and push updated epg.xml
+    # Step 10: Commit and push updated epg.xml
     - name: Commit updated epg.xml
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Automated EPG update"
+        file_pattern: "tempest_config/epg/*.xml"
