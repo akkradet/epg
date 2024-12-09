@@ -27,8 +27,8 @@ jobs:
         echo "Public key generated"
         # Show public key (you'll need to add this to GitHub)
         cat ~/.ssh/id_rsa.pub
-        # Save private key for next steps (don't use set-output anymore)
-        echo "PRIVATE_KEY=$(cat ~/.ssh/id_rsa)" >> $GITHUB_ENV
+        # Save private key for next steps
+        echo "PRIVATE_KEY=$(cat ~/.ssh/id_rsa)" >> $GITHUB_ENV  # This is the key fix
         echo "Add the following SSH public key to your GitHub repository's SSH keys: $(cat ~/.ssh/id_rsa.pub)"
 
     # Step 3: Add SSH public key to GitHub's known hosts
@@ -40,11 +40,19 @@ jobs:
     # Step 4: Clone the private repository using SSH
     - name: Clone private repository using SSH
       run: |
-        # Make sure SSH key is available for the current session
+        # Ensure SSH key is available for the current session
+        mkdir -p ~/.ssh
         echo "$PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
         git clone git@github.com:akkradet/epg-grabber.git
         cd epg-grabber
+        # Test SSH connection (This step is optional)
+        
+    - name: Test SSH connection
+      run: |
+        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
+        echo "SSH connection test completed"
 
     # Step 5: Checkout code (for PHP steps)
     - name: Checkout code
