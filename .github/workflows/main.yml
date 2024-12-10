@@ -1,4 +1,4 @@
-name: main
+name: Sync EPG Files
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate-ssh-key-and-run:
+  sync-epg-files:
     runs-on: ubuntu-latest
 
     steps:
@@ -27,58 +27,18 @@ jobs:
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Test SSH connection (This step is optional)
-    - name: Test SSH connection
-      run: |
-        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
-
-    # Step 4: Clone private repository
+    # Step 3: Clone the private repository
     - name: Clone private repository
+      run: git clone git@github.com:akkradet/epg-grabber.git epg-grabber
+
+    # Step 4: Copy XML files from private repo to public repo
+    - name: Copy XML files
       run: |
-        git clone git@github.com:akkradet/epg-grabber.git
-        cd epg-grabber
+        cp -r epg-grabber/tempest_config/epg/*.xml ./epg/
 
-    # Step 5: List the directory contents to verify if tempest.php exists
-    - name: List directory contents
-      run: |
-        cd epg-grabber
-        echo "Listing the contents of the current directory:"
-        ls -l
-
-    # Step 6: Setup PHP environment
-    - name: Setup PHP
-      uses: shivammathur/setup-php@2.31.1
-      with:
-        php-version: 8.3  # Specify correct PHP version
-        extensions: xml, imagick, zip, curl
-        ini-values: memory_limit=-1
-
-    # Step 7: Verify PHP installation
-    - name: Verify PHP installation
-      run: php -v
-
-    # Step 8: Check if tempest.php exists and run the script
-    - name: Run Tempest script
-      run: |
-        cd epg-grabber
-        if [ -f tempest.php ]; then
-          php tempest.php --epg config=tempest.config.xml invgz
-          rm -f tempest_config/epg/tempest_with_details.xml
-          rm -f tempest_config/epg/tempest.xml
-        else
-          echo "tempest.php not found in the repository"
-          exit 1
-        fi
-
-    # Step 9: Pull latest changes from the repository after script execution
-    - name: Pull latest changes
-      run: |
-        cd epg-grabber
-        git pull
-
-    # Step 10: Commit and push updated epg.xml
-    - name: Commit updated epg.xml
+    # Step 5: Commit and push changes to public repo
+    - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "Automated EPG update"
-        file_pattern: "tempest_config/epg/*.xml"
+        commit_message: "Sync EPG files from epg-grabber"
+        file_pattern: "epg/*.xml"
