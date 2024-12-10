@@ -80,18 +80,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # Add guide.xml to the submodule
+          # Add, commit, and push changes in the submodule
+          export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
           git add tempest_config/epg/guide.xml
-
-          # Check if there are changes to commit
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit. Skipping commit and push."
-          else
-            # Commit and push changes in the submodule
-            export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
-            git commit -am "Automated guide.xml update ($NOW)"
-            git push origin main
-          fi
+          git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
+          git push origin main
 
           # Switch back to the main repository
           cd ..
