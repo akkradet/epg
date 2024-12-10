@@ -1,15 +1,12 @@
 name: main
 
 on:
-  schedule:
-    - cron: 01 */2 * * *
   push:
     branches:
       - main
-  workflow_dispatch:
-
-env:
-  TZ: Asia/Bangkok
+  pull_request:
+    branches:
+      - main
 
 jobs:
   generate-ssh-key-and-run:
@@ -30,10 +27,9 @@ jobs:
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Test SSH connection (This step is optional)
+    # Step 3: Test SSH connection
     - name: Test SSH connection
-      run: |
-        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
+      run: ssh -T git@github.com || true  # This will not fail the job even with exit code 1
 
     # Step 4: Clone private repository
     - name: Clone private repository
@@ -55,28 +51,36 @@ jobs:
     - name: Run Tempest script
       run: |
         cd epg-grabber
-        ls -la  # List files in the current directory to ensure correct location
         php tempest.php --epg config=tempest.config.xml invgz
-        if [ $? -ne 0 ]; then
-          echo "Error: tempest.php failed to run."
-          exit 1
-        fi
-        ls -la tempest_config/epg  # Verify if guide.xml is created
-        if [ ! -f tempest_config/epg/guide.xml ]; then
-          echo "Error: guide.xml was not created."
-          exit 1
-        fi
 
-    # Step 8: Commit updated guide.xml
-    - name: Commit and push updated guide.xml
+    # Step 8: Debug file paths and verify generation
+    - name: Verify generated files
       run: |
-        if [ -f ./epg-grabber/tempest_config/epg/guide.xml ]; then
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
-          git add ./epg-grabber/tempest_config/epg/guide.xml
-          git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
-          git push origin main
-        else
-          echo "Error: guide.xml was not found. Skipping commit and push."
-        fi
+        echo "Listing files in tempest_config/epg directory:"
+        ls -la epg-grabber/tempest_config/epg || echo "Directory not found"
+        echo "Checking individual file existence:"
+        [ -f epg-grabber/tempest_config/epg/tempest_with_details.xml ] && echo "tempest_with_details.xml exists" || echo "tempest_with_details.xml not found"
+        [ -f epg-grabber/tempest_config/epg/tempest.xml ] && echo "tempest.xml exists" || echo "tempest.xml not found"
+
+    # Step 9: Stage and commit updated files
+    - name: Stage and commit updated XML files
+      run: |
+        cd epg-grabber
+        git add tempest_config/epg/*.xml
+        git status
+        git commit -m "Automated EPG update" || echo "No changes to commit"
+        git push || echo "Push failed"
+
+    # Optional: Add auto-commit action as a fallback
+    - name: Commit using auto-commit action
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated EPG update"
+        file_pattern: "epg-grabber/tempest_config/epg/*.xml"
+        repository: .
+        commit_user_name: github-actions[bot]
+        commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+        skip_dirty_check: false
+        skip_fetch: false
+        skip_checkout: false
+        disable_globbing: false
