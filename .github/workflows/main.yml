@@ -2,7 +2,7 @@ name: Sync EPG Files and Run Tempest Script
 
 on:
   schedule:
-    - cron: "0 1 * * *" # รันทุกวันตอนตี 1 ตามเวลา UTC
+    - cron: "0 1 * * *" # รันทุกวันตอนตี 1
   push:
     branches:
       - main
@@ -66,5 +66,5 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: |
-          Automated guide.xml update ($(date +'%Y-%m-%dT%H:%M:%S'))
+          Automated EPG update
         file_pattern: "*.xml README.md"
