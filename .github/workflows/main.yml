@@ -1,12 +1,17 @@
 name: Sync EPG Files and Run Tempest Script
 
 on:
+  schedule:
+    - cron: "0 1 * * *" # รันทุกวันตอนตี 1 ตามเวลา UTC
   push:
     branches:
       - main
   pull_request:
     branches:
       - main
+
+env:
+  TZ: Asia/Bangkok # ตั้ง Time Zone เป็น Asia/Bangkok
 
 jobs:
   sync-and-run-tempest:
@@ -45,12 +50,21 @@ jobs:
           exit 1
         fi
 
+    - name: Update README with current date
+      run: echo "" > README.md && echo "$(date +'%Y-%m-%d %H:%M:%S')" >> README.md
+
     - name: Copy XML files
       run: |
         cp -r epg-grabber/tempest_config/epg/*.xml ./
 
+    - name: Configure Git for commit
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "Sync EPG files from epg-grabber and run Tempest script"
-        file_pattern: "*.xml"
+        commit_message: |
+          Automated guide.xml update ($(date +'%Y-%m-%dT%H:%M:%S'))
+        file_pattern: "*.xml README.md"
