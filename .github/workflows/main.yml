@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: 01 */2 * * *
   push:
-   branches:
-    - main
+    branches:
+      - main
   workflow_dispatch:
+
 env:
   TZ: Asia/Bangkok
 
@@ -49,21 +50,33 @@ jobs:
     # Step 6: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
-      
+
     # Step 7: Run Tempest script
     - name: Run Tempest script
       run: |
         cd epg-grabber
         ls -la  # List files in the current directory to ensure correct location
         php tempest.php --epg config=tempest.config.xml invgz
-        ls -la tempest_config/epg
+        if [ $? -ne 0 ]; then
+          echo "Error: tempest.php failed to run."
+          exit 1
+        fi
+        ls -la tempest_config/epg  # Verify if guide.xml is created
+        if [ ! -f tempest_config/epg/guide.xml ]; then
+          echo "Error: guide.xml was not created."
+          exit 1
+        fi
 
     # Step 8: Commit updated guide.xml
     - name: Commit and push updated guide.xml
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
-        git add -A
-        git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
-        git push origin main
+        if [ -f ./epg-grabber/tempest_config/epg/guide.xml ]; then
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
+          git add ./epg-grabber/tempest_config/epg/guide.xml
+          git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
+          git push origin main
+        else
+          echo "Error: guide.xml was not found. Skipping commit and push."
+        fi
