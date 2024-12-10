@@ -31,7 +31,6 @@ jobs:
     - name: Clone private repository using SSH
       run: |
         git clone git@github.com:akkradet/epg-grabber.git
-        cd epg-grabber
 
     # Step 4: Checkout code (for PHP steps)
     - name: Checkout code
