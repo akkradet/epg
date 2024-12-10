@@ -56,14 +56,10 @@ jobs:
         php tempest.php --epg config=tempest.config.xml invgz
         ls -la tempest_config/epg  # List files before removal
 
-# Step 8: Commit updated epg.xml
+    # Step 8: Commit updated epg.xml
     - name: Commit and push updated epg.xml
       run: |
-        git config --global user.name 'Akkradet [GitHub Actions]'
-        git config --global user.email 'akkradet@users.noreply.github.com'
         export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
         git add ./epg-grabber/tempest_config/epg/*.xml
-        git commit -am "Automated guide.xml update ($NOW)"
-        git push origin main    
-        
-
+        git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
+        git push origin main
