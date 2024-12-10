@@ -53,7 +53,6 @@ jobs:
         php-version: 8.3 # Specify correct PHP version
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
-		
     # Step 8: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
