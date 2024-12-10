@@ -1,15 +1,12 @@
 name: main
 
 on:
-  schedule:
-    - cron: 01 */2 * * *
   push:
     branches:
       - main
-  workflow_dispatch:
-
-env:
-  TZ: Asia/Bangkok
+  pull_request:
+    branches:
+      - main
 
 jobs:
   generate-ssh-key-and-run:
@@ -34,8 +31,20 @@ jobs:
     - name: Test SSH connection
       run: |
         ssh -T git@github.com || true  # This will not fail the job even with exit code 1
-        
-    # Step 5: Setup PHP environment
+
+    # Step 4: Clone private repository
+    - name: Clone private repository
+      run: git clone git@github.com:akkradet/epg-grabber.git
+
+    # Step 5: List contents of the repository and check for necessary files
+    - name: List repository contents and check for required files
+      run: |
+        cd epg-grabber
+        echo "Listing contents of the repository to check for tempest.php and XML files:"
+        ls -l
+        ls -l tempest_config/epg/*.xml || echo "No XML files found in tempest_config/epg/"
+
+    # Step 6: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
       with:
@@ -43,50 +52,26 @@ jobs:
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
 
-    # Step 6: Verify PHP installation
+    # Step 7: Verify PHP installation
     - name: Verify PHP installation
       run: php -v
 
-    # Step 7: Run Tempest script
+    # Step 8: Check if tempest.php exists and run the script
     - name: Run Tempest script
       run: |
         cd epg-grabber
-        ls -la  # List files in the current directory to ensure correct location
-        php tempest.php --epg config=tempest.config.xml invgz
-        if [ $? -ne 0 ]; then
-          echo "Error: tempest.php failed to run."
-          exit 1
-        fi
-        ls -la tempest_config/epg  # Verify if guide.xml is created
-        if [ ! -f tempest_config/epg/guide.xml ]; then
-          echo "Error: guide.xml was not created."
-          exit 1
-        fi
-
-    # Step 8: Commit updated guide.xml
-    - name: Commit and push updated guide.xml
-      run: |
-        if [ -f ./epg-grabber/tempest_config/epg/guide.xml ]; then
-          # Switch to the submodule directory
-          cd epg-grabber
-
-          # Configure Git for the submodule
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-
-          # Add, commit, and push changes in the submodule
-          export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
-          git add tempest_config/epg/guide.xml
-          git diff --quiet --cached || git commit -am "Automated guide.xml update ($NOW)"
-          git push origin main
-
-          # Switch back to the main repository
-          cd ..
-
-          # Commit the updated submodule reference in the main repository
-          git add epg-grabber
-          git commit -m "Update epg-grabber submodule reference"
-          git push origin main
+        if [ -f tempest.php ]; then
+          php tempest.php --epg config=tempest.config.xml invgz
+          rm -f tempest_config/epg/tempest_with_details.xml
+          rm -f tempest_config/epg/tempest.xml
         else
-          echo "Error: guide.xml was not found. Skipping commit and push."
+          echo "tempest.php not found in the repository"
+          exit 1
         fi
+
+    # Step 9: Commit and push updated epg.xml files if they exist
+    - name: Commit updated epg.xml
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated EPG update"
+        file_pattern: "tempest_config/epg/*.xml"
