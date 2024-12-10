@@ -1,4 +1,4 @@
-name: Sync EPG Files
+name: Sync EPG Files and Run Tempest Script
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  sync-epg-files:
+  sync-and-run-tempest:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,14 +31,37 @@ jobs:
     - name: Clone private repository
       run: git clone git@github.com:akkradet/epg-grabber.git epg-grabber
 
-    # Step 4: Copy XML files from private repo to public repo
+    # Step 4: Setup PHP environment
+    - name: Setup PHP
+      uses: shivammathur/setup-php@2.31.1
+      with:
+        php-version: 8.3
+        extensions: xml, imagick, zip, curl
+        ini-values: memory_limit=-1
+
+    # Step 5: Verify PHP installation
+    - name: Verify PHP installation
+      run: php -v
+
+    # Step 6: Run Tempest script
+    - name: Run Tempest script
+      run: |
+        cd epg-grabber
+        if [ -f tempest.php ]; then
+          php tempest.php --epg config=tempest.config.xml invgz
+        else
+          echo "tempest.php not found in the repository"
+          exit 1
+        fi
+
+    # Step 7: Copy XML files from private repo to public repo
     - name: Copy XML files
       run: |
         cp -r epg-grabber/tempest_config/epg/*.xml ./epg/
 
-    # Step 5: Commit and push changes to public repo
+    # Step 8: Commit and push changes to public repo
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "Sync EPG files from epg-grabber"
+        commit_message: "Sync EPG files from epg-grabber and run Tempest script"
         file_pattern: "epg/*.xml"
