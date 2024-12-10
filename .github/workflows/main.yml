@@ -55,9 +55,14 @@ jobs:
         fi
 
     # Step 7: Copy XML files from private repo to public repo
-    - name: Copy XML files
+    - name: Check and Copy XML files
       run: |
-        cp -r epg-grabber/tempest_config/epg/*.xml ./epg/
+        if [ -d "epg-grabber/tempest_config/epg" ]; then
+            mkdir -p ./epg/
+            cp -r epg-grabber/tempest_config/epg/*.xml ./epg/
+        else
+            echo "No XML files to copy."
+        fi
 
     # Step 8: Commit and push changes to public repo
     - name: Commit and push changes
