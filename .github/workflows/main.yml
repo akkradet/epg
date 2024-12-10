@@ -58,7 +58,12 @@ jobs:
 
 # Step 8: Commit updated epg.xml
     - name: Commit and push updated epg.xml
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Automated EPG update"
-        file_pattern: "tempest_config/epg/*.xml"
+      run: |
+        git config --global user.name 'Akkradet [GitHub Actions]'
+        git config --global user.email 'akkradet@users.noreply.github.com'
+        export NOW=$(date +'%Y-%m-%dT%H:%M:%S')
+        git add ./epg-grabber/tempest_config/epg/*.xml
+        git commit -am "Automated guide.xml update ($NOW)"
+        git push origin main    
+        
+
