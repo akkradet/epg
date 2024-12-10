@@ -34,13 +34,7 @@ jobs:
     - name: Test SSH connection
       run: |
         ssh -T git@github.com || true  # This will not fail the job even with exit code 1
-
-    # Step 4: Initialize and update submodule
-    - name: Initialize and update submodule
-      run: |
-        git submodule init
-        git submodule update
-
+        
     # Step 5: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
