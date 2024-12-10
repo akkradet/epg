@@ -27,28 +27,27 @@ jobs:
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
-    # Step 3: Test SSH connection (This step is optional)
-    - name: Test SSH connection
+    # Step 3: Clone the private repository using SSH
+    - name: Clone private repository using SSH
       run: |
-        ssh -T git@github.com || true  # This will not fail the job even with exit code 1
-
-    # Step 4: Clone private repository
-    - name: Clone private repository
-      run: git clone git@github.com:akkradet/epg-grabber.git
-
-    # Step 5: List contents of the repository and check for necessary files
-    - name: List repository contents and check for required files
-      run: |
+        git clone git@github.com:akkradet/epg-grabber.git
         cd epg-grabber
-        echo "Listing contents of the repository to check for tempest.php and XML files:"
-        ls -l
-        ls -l tempest_config/epg/*.xml || echo "No XML files found in tempest_config/epg/"
+
+    # Step 4: Checkout code (for PHP steps)
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Step 5: Set up Git identity
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
 
     # Step 6: Setup PHP environment
     - name: Setup PHP
       uses: shivammathur/setup-php@2.31.1
       with:
-        php-version: 8.3
+        php-version: 8.3 # Specify correct PHP version
         extensions: xml, imagick, zip, curl
         ini-values: memory_limit=-1
 
@@ -56,22 +55,15 @@ jobs:
     - name: Verify PHP installation
       run: php -v
 
-    # Step 8: Check if tempest.php exists and run the script
+    # Step 8: Run Tempest script
     - name: Run Tempest script
       run: |
-        cd epg-grabber
-        if [ -f tempest.php ]; then
-          php tempest.php --epg config=tempest.config.xml invgz
-          rm -f tempest_config/epg/tempest_with_details.xml
-          rm -f tempest_config/epg/tempest.xml
-        else
-          echo "tempest.php not found in the repository"
-          exit 1
-        fi
+        php tempest.php --epg config=tempest.config.xml invgz
+        cd tempest_config/epg
 
-    # Step 9: Commit and push updated epg.xml files if they exist
+    # Step 9: Commit and push updated epg.xml
     - name: Commit updated epg.xml
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Automated EPG update"
-        file_pattern: "tempest_config/epg/*.xml"
+      run: |
+        git add *.xml
+        git commit -m "Automated EPG update"
+        git push
