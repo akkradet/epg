@@ -10,6 +10,9 @@ on:
     branches:
       - main
 
+env:
+  TZ: Asia/Bangkok # ตั้ง Time Zone เป็น Asia/Bangkok
+
 jobs:
   sync-and-run-tempest:
     runs-on: ubuntu-latest
