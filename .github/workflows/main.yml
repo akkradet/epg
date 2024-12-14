@@ -1,8 +1,10 @@
-name: Sync EPG Files and Run Tempest Script
+name: UPDATE EPG
 
 on:
   schedule:
     - cron: "30 17 * * *"
+  workflow_dispatch:
+  
   push:
     branches:
       - main
@@ -51,7 +53,7 @@ jobs:
         fi
 
     - name: Update README with current date
-      run: echo "#EPG" > README.md && echo "$(date +'%Y-%m-%d %H:%M:%S')" >> README.md
+      run: echo "# EPG" > README.md && echo "$(date +'%Y-%m-%d %H:%M:%S')" >> README.md
 
     - name: Copy XML files
       run: |
