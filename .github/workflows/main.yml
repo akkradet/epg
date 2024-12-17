@@ -56,7 +56,6 @@ jobs:
       run: |
         echo "# EPG" > README.md
         echo "$(date +'%Y-%m-%d %H:%M:%S')" >> README.md
-        echo "```#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/epg/refs/heads/main/guide.xml" refresh="3600"```" >> README.md
 
     - name: Copy XML files
       run: |
@@ -77,5 +76,5 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: |
-          Automated EPG update $(date +'%d/%m/%Y %H:%M:%S')
+          Automated EPG update
         file_pattern: "*.xml *.xml.gz README.md"
