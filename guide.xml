@@ -432,195 +432,226 @@
     <display-name lang="bs">AS Premium 1</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/as_premium1.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Maroko - Haiti, fudbal</title>
+  <programme start="20260626000000 +0200" stop="20260626003000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
+    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
+  </programme>
+  <programme start="20260626003000 +0200" stop="20260626010000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
+    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
+  </programme>
+  <programme start="20260626010000 +0200" stop="20260626030000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Tunis - Nizozemska, fudbal</title>
     <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
   </programme>
-  <programme start="20260625020000 +0200" stop="20260625023000 +0200" channel="AS Premium 1.ba">
+  <programme start="20260626030000 +0200" stop="20260626033000 +0200" channel="AS Premium 1.ba">
     <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
     <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
   </programme>
-  <programme start="20260625023000 +0200" stop="20260625030000 +0200" channel="AS Premium 1.ba">
+  <programme start="20260626033000 +0200" stop="20260626040000 +0200" channel="AS Premium 1.ba">
     <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
     <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
   </programme>
-  <programme start="20260625030000 +0200" stop="20260625050000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Južna Afrika - Južna Koreja, fudbal</title>
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Paragvaj - Australija, fudbal</title>
     <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
   </programme>
-  <programme start="20260625050000 +0200" stop="20260625053000 +0200" channel="AS Premium 1.ba">
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">WWIN liga BiH: Rudar - Željezničar, snimak 21.04., fudbal</title>
+    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
+  </programme>
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">WWIN liga BiH: Zrinjski - Borac, snimak 22.04., fudbal</title>
+    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">WWIN LIGA BIH: Sarajevo - Radnik, snimak 06.02., fudbal</title>
+    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626123000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
+    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
+  </programme>
+  <programme start="20260626123000 +0200" stop="20260626130000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
+    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
+  </programme>
+  <programme start="20260626130000 +0200" stop="20260626133000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
+    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
+  </programme>
+  <programme start="20260626133000 +0200" stop="20260626143000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Formula 1, Austrija, Trening 1</title>
+    <desc lang="bs">Formula 1, također poznata i kao F1 je najviša klasa jednosjeda u automobilizmu koju je odobrila Međunarodna automobilistička federacija. Sezona Formule 1 sastoji se od niza Velikih nagrada, koje se održavaju na posebno izgrađenim stazama ili javnim cestama. Rezultati svake utrke kombinirani su sa sustavom bodovanja koji određuje dva godišnja Svjetska prvenstva, jedno za vozače i drugo za konstruktore.</desc>
+  </programme>
+  <programme start="20260626143000 +0200" stop="20260626163000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">WWIN liga BiH: Široki Brijeg - Velež, snimak 15.02., fudbal</title>
+    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
+  </programme>
+  <programme start="20260626163000 +0200" stop="20260626170000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
+    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
+  </programme>
+  <programme start="20260626170000 +0200" stop="20260626180000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Formula 1, Austrija, Trening 2</title>
+    <desc lang="bs">Formula 1, također poznata i kao F1 je najviša klasa jednosjeda u automobilizmu koju je odobrila Međunarodna automobilistička federacija. Sezona Formule 1 sastoji se od niza Velikih nagrada, koje se održavaju na posebno izgrađenim stazama ili javnim cestama. Rezultati svake utrke kombinirani su sa sustavom bodovanja koji određuje dva godišnja Svjetska prvenstva, jedno za vozače i drugo za konstruktore.</desc>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626200000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Atletika, World Athletics Continental Tour, 76. Boris Hanzekovic Memorial</title>
+    <desc lang="bs">Svjetska atletska kontinentalna turneja je godišnja serija atletskih natjecanja, priznata od strane Svjetske atletske organizacije. Turneja čini drugu razinu međunarodnih jednodnevnih natjecanja nakon Dijamantne lige.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626203000 +0200" channel="AS Premium 1.ba">
     <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
     <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
   </programme>
-  <programme start="20260625053000 +0200" stop="20260625060000 +0200" channel="AS Premium 1.ba">
+  <programme start="20260626203000 +0200" stop="20260626210000 +0200" channel="AS Premium 1.ba">
     <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
     <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">WWIN liga BiH: Posušje - Željezničar, snimak 08.02., fudbal</title>
-    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">WWIN liga BiH: Sarajevo - Borac, snimak 03.05., fudbal</title>
-    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625103000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
-    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
-  </programme>
-  <programme start="20260625103000 +0200" stop="20260625110000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
-    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
-  </programme>
-  <programme start="20260625110000 +0200" stop="20260625130000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Četvrtfinale 1: Tenis, WTA 500 - Bad Homburg</title>
-    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
-  </programme>
-  <programme start="20260625130000 +0200" stop="20260625150000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Četvrtfinale 2: Tenis, WTA 500 - Bad Homburg</title>
-    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
-  </programme>
-  <programme start="20260625150000 +0200" stop="20260625170000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Četvrtfinale 3: Tenis, WTA 500 - Bad Homburg</title>
-    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
-  </programme>
-  <programme start="20260625170000 +0200" stop="20260625173000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
-    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
-  </programme>
-  <programme start="20260625173000 +0200" stop="20260625193000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Prijateljske utakmice, Crvena zvezda - Amstetten, fudbal</title>
-    <desc lang="bs">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
-  </programme>
-  <programme start="20260625193000 +0200" stop="20260625200000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">Engleska liga: The Big Interview, emisija</title>
-    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">WWIN liga BiH: Sarajevo - Borac, snimak 03.05., fudbal</title>
-    <desc lang="bs">Premijer liga BiH je najviše fudbalsko ligaško takmičenje u BiH. Osnovana je 2000. godine, spajanjem fudbalske lige NSBiH-a i fudbalske lige Herceg-Bosne. Ulaskom klubova iz Republike Srpske u Premijer ligu BiH 2002. godine dolazi do konačnog ujedinjenja fudbala u BiH. Do sezone 2015/16. liga je imala 16 klubova, ali je u aprilu 2015. godine donesena odluka da od naredne sezone (2016/17.) liga ima 12 klubova. Nakon 22. kola liga se dijeli na Ligu za prvaka i Ligu za opstanak. Svake sezone dvije ekipe ispadaju u Prvu ligu FBiH ili Prvu ligu Republike Srpske. Premijer ligu vodi Fudbalski savez BiH.</desc>
-  </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="AS Premium 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Curacao - Obala Bjelokosti, fudbal</title>
+  <programme start="20260626210000 +0200" stop="20260626230000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Senegal - Irak, fudbal</title>
     <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626230000 +0200" stop="20260627000000 +0200" channel="AS Premium 1.ba">
+    <title lang="bs">Messijev ubitačan dodir, dokumentarni film</title>
   </programme>
   <channel id="AS Premium 2.ba">
     <display-name lang="bs">AS Premium 2</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/as_premium2.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Milan - Roma, snimak 02.11.2025., fudbal</title>
-    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Atalanta - Napoli, snimak 22.02., fudbal</title>
-    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
-  </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Inter - Juventus, snimak 14.02., fudbal</title>
-    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Milan - Napoli, snimak 28.09.2025., fudbal</title>
-    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="AS Premium 2.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="AS Premium 2.ba">
     <title lang="bs">ITALIJANSKA LIGA: Roma - Juventus, snimak 01.03., fudbal</title>
     <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
   </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="AS Premium 2.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="AS Premium 2.ba">
     <title lang="bs">ITALIJANSKA LIGA: Inter - Lazio, snimak 09.11.2025., fudbal</title>
     <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="AS Premium 2.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="AS Premium 2.ba">
     <title lang="bs">ITALIJANSKA LIGA: Milan - Roma, snimak 02.11.2025., fudbal</title>
     <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Milan - Napoli, snimak 28.09.2025., fudbal</title>
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">ITALIJANSKA LIGA: Inter - Lazio, snimak 09.11.2025., fudbal</title>
     <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625163000 +0200" channel="AS Premium 2.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">ITALIJANSKA LIGA: Milan - Roma, snimak 02.11.2025., fudbal</title>
+    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">ITALIJANSKA LIGA: Atalanta - Napoli, snimak 22.02., fudbal</title>
+    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626123000 +0200" channel="AS Premium 2.ba">
     <title lang="bs">Sportske igre mladih</title>
     <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
   </programme>
-  <programme start="20260625163000 +0200" stop="20260625183000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">Liga Nacija: Ukrajina - Italija, odbojka</title>
+  <programme start="20260626123000 +0200" stop="20260626130000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Sportske igre mladih</title>
+    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
+  </programme>
+  <programme start="20260626130000 +0200" stop="20260626150000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Polufinale 1: Tenis, WTA 500 - Bad Homburg</title>
+    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
+  </programme>
+  <programme start="20260626150000 +0200" stop="20260626153000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Sportske igre mladih</title>
+    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
+  </programme>
+  <programme start="20260626153000 +0200" stop="20260626173000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Polufinale 2: Tenis, WTA 500 - Bad Homburg</title>
+    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
+  </programme>
+  <programme start="20260626173000 +0200" stop="20260626193000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">ITALIJANSKA LIGA: Inter - Juventus, snimak 14.02., fudbal</title>
+    <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme start="20260626193000 +0200" stop="20260626200000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Sportske igre mladih</title>
+    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626220000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">Liga Nacija: Brazil - Italija, odbojka</title>
     <desc lang="bs">FIVB Liga nacija u odbojci godišnje je međunarodno natjecanje u kojem sudjeluju seniorske muške reprezentacije članica Međunarodne odbojkaške federacije.</desc>
   </programme>
-  <programme start="20260625183000 +0200" stop="20260625190000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">Sportske igre mladih</title>
-    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
-  </programme>
-  <programme start="20260625190000 +0200" stop="20260625193000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">Sportske igre mladih</title>
-    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
-  </programme>
-  <programme start="20260625193000 +0200" stop="20260625200000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">Sportske igre mladih</title>
-    <desc lang="bs">Sportske igre mladih pružaju djeci i mladima mogućnost da, potpuno besplatno, učestvuju u profesionalno organizovanim takmičenjima u 10 sportskih disciplina – mali nogomet, odbojka, ulična košarka, rukomet, odbojka na pijesku, tenis, stolni tenis, šah, utrka na 60m i graničar.</desc>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">Liga Nacija: Poljska - Turska, odbojka</title>
-    <desc lang="bs">FIVB Liga nacija u odbojci godišnje je međunarodno natjecanje u kojem sudjeluju seniorske muške reprezentacije članica Međunarodne odbojkaške federacije.</desc>
-  </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="AS Premium 2.ba">
-    <title lang="bs">ITALIJANSKA LIGA: Milan - Napoli, snimak 28.09.2025., fudbal</title>
+  <programme start="20260626220000 +0200" stop="20260627000000 +0200" channel="AS Premium 2.ba">
+    <title lang="bs">ITALIJANSKA LIGA: Inter - Lazio, snimak 09.11.2025., fudbal</title>
     <desc lang="bs">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
   </programme>
   <channel id="AS Premium 3.ba">
     <display-name lang="bs">AS Premium 3</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/as_premium3.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">ŠPANSKA LIGA: Betis - Real Madrid, snimak 24.04., fudbal</title>
-    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">ŠPANSKA LIGA: Barcelona - Sevilla, snimak 15.03., fudbal</title>
     <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
   </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">ŠPANSKA LIGA: Real Sociedad - Atletico Madrid, snimak 04.01., fudbal</title>
     <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">ŠPANSKA LIGA: Barcelona - Sevilla, snimak 15.03., fudbal</title>
-    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">ŠPANSKA LIGA: Real Sociedad - Atletico Madrid, snimak 04.01., fudbal</title>
-    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">ŠPANSKA LIGA: Real Madrid - Barcelona, snimak 26.10.2025., fudbal</title>
     <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">ŠPANSKA LIGA: Atletico Madrid - Villarreal, snimak 13.09.2025., fudbal</title>
-    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
-  </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">ŠPANSKA LIGA: Ath. Bilbao - Real Madrid, snimak 03.12.2025., fudbal</title>
-    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
-  </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">ŠPANSKA LIGA: Betis - Real Madrid, snimak 24.04., fudbal</title>
     <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
   </programme>
-  <programme start="20260625180000 +0200" stop="20260625210000 +0200" channel="AS Premium 3.ba">
-    <title lang="bs">MLB, Tampa Bay Rays - Kansas City Royals, bejzbol</title>
-    <desc lang="bs">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
-  </programme>
-  <programme start="20260625210000 +0200" stop="20260625230000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">ŠPANSKA LIGA: Barcelona - Sevilla, snimak 15.03., fudbal</title>
     <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
   </programme>
-  <programme start="20260625230000 +0200" stop="20260625233000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">ŠPANSKA LIGA: Real Sociedad - Atletico Madrid, snimak 04.01., fudbal</title>
+    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626140000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">ŠPANSKA LIGA: Real Madrid - Barcelona, snimak 26.10.2025., fudbal</title>
+    <desc lang="bs">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme start="20260626140000 +0200" stop="20260626143000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
     <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
   </programme>
-  <programme start="20260625233000 +0200" stop="20260626000000 +0200" channel="AS Premium 3.ba">
+  <programme start="20260626143000 +0200" stop="20260626150000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626150000 +0200" stop="20260626170000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Polufinale 1: Tenis, ATP 250 - Eastbourne</title>
+    <desc lang="bs">Eastbourne International je teniski turnir na WTA i ATP Touru koji se održava u Devonshire Park Lawn Tennis Clubu u Eastbourneu, u Ujedinjenu Kraljevstvu.</desc>
+  </programme>
+  <programme start="20260626170000 +0200" stop="20260626190000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Polufinale 2: Tenis, ATP 250 - Eastbourne</title>
+    <desc lang="bs">Eastbourne International je teniski turnir na WTA i ATP Touru koji se održava u Devonshire Park Lawn Tennis Clubu u Eastbourneu, u Ujedinjenu Kraljevstvu.</desc>
+  </programme>
+  <programme start="20260626190000 +0200" stop="20260626193000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626193000 +0200" stop="20260626200000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626203000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626203000 +0200" stop="20260626223000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Liga Nacija: Srbija - Kuba, odbojka</title>
+    <desc lang="bs">FIVB Liga nacija u odbojci godišnje je međunarodno natjecanje u kojem sudjeluju seniorske muške reprezentacije članica Međunarodne odbojkaške federacije.</desc>
+  </programme>
+  <programme start="20260626223000 +0200" stop="20260626230000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626230000 +0200" stop="20260626233000 +0200" channel="AS Premium 3.ba">
+    <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
+    <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
+  </programme>
+  <programme start="20260626233000 +0200" stop="20260627000000 +0200" channel="AS Premium 3.ba">
     <title lang="bs">Španska liga: La Liga Talking, fudbal, emisija</title>
     <desc lang="bs">Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde. Razgovaramo s legendama LaLige u njihovom okruženju o dubokim problemima, njihovim uspjesima, ali i neuspjesima.</desc>
   </programme>
@@ -628,435 +659,411 @@
     <display-name lang="bs">Arena Sport 1</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena1.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Škotska - Brazil, fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625023000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625023000 +0200" stop="20260625030000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625030000 +0200" stop="20260625050000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Češka - Meksiko, fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625050000 +0200" stop="20260625053000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625053000 +0200" stop="20260625060000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Bosna i Hercegovina - Katar, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Škotska - Brazil, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625103000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Pregled dana, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625103000 +0200" stop="20260625110000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625110000 +0200" stop="20260625130000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Češka - Meksiko, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625130000 +0200" stop="20260625150000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Bosna i Hercegovina - Katar, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625150000 +0200" stop="20260625170000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Škotska - Brazil, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625170000 +0200" stop="20260625173000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
-    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
-  </programme>
-  <programme start="20260625173000 +0200" stop="20260625180000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
-    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
-  </programme>
-  <programme start="20260625180000 +0200" stop="20260625183000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
-    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
-  </programme>
-  <programme start="20260625183000 +0200" stop="20260625203000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Bosna i Hercegovina - Katar, snimak 24.06., fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625203000 +0200" stop="20260625210000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Pregled dana, fudbal, emisija</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625210000 +0200" stop="20260625220000 +0200" channel="Arena Sport 1.ba">
+  <programme start="20260626000000 +0200" stop="20260626010000 +0200" channel="Arena Sport 1.ba">
     <title lang="bs">FIFA SVJETSKO PRVENSTVO: Studio, LIVE STUDIO</title>
     <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="Arena Sport 1.ba">
-    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Ekvador - Njemačka, fudbal</title>
+  <programme start="20260626010000 +0200" stop="20260626030000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Japan - Švedska, fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626030000 +0200" stop="20260626033000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626033000 +0200" stop="20260626040000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Turska - SAD, fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Ekvador - Njemačka, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Japan - Švedska, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626103000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Pregled dana, fudbal, emisija</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626103000 +0200" stop="20260626110000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal, emisija</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626110000 +0200" stop="20260626130000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Turska - SAD, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626130000 +0200" stop="20260626150000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Ekvador - Njemačka, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626150000 +0200" stop="20260626170000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Japan - Švedska, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626170000 +0200" stop="20260626190000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Turska - SAD, snimak 25.06., fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626190000 +0200" stop="20260626193000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Skrivene priče Svjetskog prvenstva, fudbal, emisija</title>
+    <desc lang="bs">Animirana dokumentarna serija o likovima koje je službena povijest Svjetskog prvenstva zaboravila. Kritičkim pogledom, njezine epizode rekonstruiraju epske i tragične događaje legendi koje su se suprotstavile najvećim tiranima svog vremena.</desc>
+  </programme>
+  <programme start="20260626193000 +0200" stop="20260626200000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Pregled dana, fudbal, emisija</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626210000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Studio, LIVE STUDIO</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626210000 +0200" stop="20260626230000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Norveška - Francuska, fudbal</title>
+    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme start="20260626230000 +0200" stop="20260627000000 +0200" channel="Arena Sport 1.ba">
+    <title lang="bs">FIFA SVJETSKO PRVENSTVO: Studio, LIVE STUDIO</title>
     <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
   </programme>
   <channel id="Arena Sport 2.ba">
     <display-name lang="bs">Arena Sport 2</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena2.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">ABA liga: Dubai - Partizan, snimak 04.06., košarka</title>
-    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">ABA liga: Dubai - Partizan, snimak 06.06., košarka</title>
-    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
-  </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="Arena Sport 2.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="Arena Sport 2.ba">
     <title lang="bs">ABA liga: Partizan - Dubai, snimak 10.06., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">ABA liga: Dubai - Partizan, snimak 06.06., košarka</title>
-    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">ABA liga: Partizan - Dubai, snimak 10.06., košarka</title>
-    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="Arena Sport 2.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="Arena Sport 2.ba">
     <title lang="bs">ABA liga: Dubai - Budućnost, snimak 28.05., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="Arena Sport 2.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="Arena Sport 2.ba">
     <title lang="bs">ABA liga: Dubai - Partizan, snimak 04.06., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">ABA liga: Dubai - Partizan, snimak 06.06., košarka</title>
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Dubai - Budućnost, snimak 28.05., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625163000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">Autoshop magazin</title>
-    <desc lang="bs">U emisiji "Autoshop magazin" saznajte sve o automobilima.</desc>
-  </programme>
-  <programme start="20260625163000 +0200" stop="20260625170000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">Autoshop magazin</title>
-    <desc lang="bs">U emisiji "Autoshop magazin" saznajte sve o automobilima.</desc>
-  </programme>
-  <programme start="20260625170000 +0200" stop="20260625190000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">Četvrtfinale 4: Tenis, WTA 500 - Bad Homburg</title>
-    <desc lang="bs">Bad Homburg Open je teniski turnir na WTA Touru koji se prvi put održao 2021. godine u hessenskom gradu Bad Homburg. Bad Homburg Open se smatra generalnom probom prije Wimbledona.</desc>
-  </programme>
-  <programme start="20260625190000 +0200" stop="20260625193000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">Autoshop magazin</title>
-    <desc lang="bs">U emisiji "Autoshop magazin" saznajte sve o automobilima.</desc>
-  </programme>
-  <programme start="20260625193000 +0200" stop="20260625200000 +0200" channel="Arena Sport 2.ba">
-    <title lang="bs">Autoshop magazin</title>
-    <desc lang="bs">U emisiji "Autoshop magazin" saznajte sve o automobilima.</desc>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="Arena Sport 2.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="Arena Sport 2.ba">
     <title lang="bs">ABA liga: Dubai - Partizan, snimak 04.06., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="Arena Sport 2.ba">
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="Arena Sport 2.ba">
     <title lang="bs">ABA liga: Dubai - Partizan, snimak 06.06., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626140000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Partizan - Dubai, snimak 10.06., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626140000 +0200" stop="20260626160000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Dubai - Budućnost, snimak 28.05., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626160000 +0200" stop="20260626180000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Dubai - Partizan, snimak 04.06., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626200000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Dubai - Partizan, snimak 06.06., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626220000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Partizan - Dubai, snimak 10.06., košarka</title>
+    <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260627000000 +0200" channel="Arena Sport 2.ba">
+    <title lang="bs">ABA liga: Dubai - Budućnost, snimak 28.05., košarka</title>
     <desc lang="bs">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
   </programme>
   <channel id="Arena Sport 3.ba">
     <display-name lang="bs">Arena Sport 3</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena3.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Hajduk - Dinamo, snimak 08.03., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Istra - Osijek, snimak 21.09.2025., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Lokomotiva - Dinamo, snimak 05.10.2025., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Istra - Osijek, snimak 21.09.2025., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Lokomotiva - Dinamo, snimak 05.10.2025., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Hajduk - Rijeka, snimak 22.02., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="Arena Sport 3.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="Arena Sport 3.ba">
     <title lang="bs">MOZARTBET SUPERLIGA: Vojvodina - Partizan, snimak 22.04., fudbal</title>
     <desc lang="bs">Srpska Superliga je profesionalna liga za nogometne klubove u Srbiji. Na vrhu srpskog nogometnog sustava, to je glavno nogometno natjecanje u zemlji. Liga se sastoji od 16 klubova, koristeći sustav promocije i ispadanja u Prvu ligu Srbije, drugi stupanj nogometmog prvenstva Srbije.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="Arena Sport 3.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="Arena Sport 3.ba">
     <title lang="bs">MOZARTBET SUPERLIGA: Novi Pazar - OFK Beograd, snimak 15.02., fudbal</title>
     <desc lang="bs">Srpska Superliga je profesionalna liga za nogometne klubove u Srbiji. Na vrhu srpskog nogometnog sustava, to je glavno nogometno natjecanje u zemlji. Liga se sastoji od 16 klubova, koristeći sustav promocije i ispadanja u Prvu ligu Srbije, drugi stupanj nogometmog prvenstva Srbije.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="Arena Sport 3.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="Arena Sport 3.ba">
     <title lang="bs">HNL: Hajduk - Dinamo, snimak 08.03., fudbal</title>
     <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
   </programme>
-  <programme start="20260625180000 +0200" stop="20260625200000 +0200" channel="Arena Sport 3.ba">
-    <title lang="bs">HNL: Istra - Osijek, snimak 21.09.2025., fudbal</title>
-    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="Arena Sport 3.ba">
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="Arena Sport 3.ba">
     <title lang="bs">HNL: Lokomotiva - Dinamo, snimak 05.10.2025., fudbal</title>
     <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="Arena Sport 3.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="Arena Sport 3.ba">
     <title lang="bs">HNL: Hajduk - Rijeka, snimak 22.02., fudbal</title>
     <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">MOZARTBET SUPERLIGA: Vojvodina - Partizan, snimak 22.04., fudbal</title>
+    <desc lang="bs">Srpska Superliga je profesionalna liga za nogometne klubove u Srbiji. Na vrhu srpskog nogometnog sustava, to je glavno nogometno natjecanje u zemlji. Liga se sastoji od 16 klubova, koristeći sustav promocije i ispadanja u Prvu ligu Srbije, drugi stupanj nogometmog prvenstva Srbije.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626140000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">MOZARTBET SUPERLIGA: Novi Pazar - OFK Beograd, snimak 15.02., fudbal</title>
+    <desc lang="bs">Srpska Superliga je profesionalna liga za nogometne klubove u Srbiji. Na vrhu srpskog nogometnog sustava, to je glavno nogometno natjecanje u zemlji. Liga se sastoji od 16 klubova, koristeći sustav promocije i ispadanja u Prvu ligu Srbije, drugi stupanj nogometmog prvenstva Srbije.</desc>
+  </programme>
+  <programme start="20260626140000 +0200" stop="20260626160000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">HNL: Hajduk - Dinamo, snimak 08.03., fudbal</title>
+    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
+  </programme>
+  <programme start="20260626160000 +0200" stop="20260626180000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">HNL: Istra - Osijek, snimak 21.09.2025., fudbal</title>
+    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626200000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">HNL: Lokomotiva - Dinamo, snimak 05.10.2025., fudbal</title>
+    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626220000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">HNL: Hajduk - Rijeka, snimak 22.02., fudbal</title>
+    <desc lang="bs">Hrvatska nogometna liga (HNL), službenog naziva SuperSport Hrvatska nogometna liga, hrvatska je nogometna liga najvišeg ranga. HNL trenutno uključuje 10 klubova.Tijekom sezone igra se 36 kola četverokružnim sustavom, svatko sa svakim četiri puta. Na kraju sezone posljednjeplasirana momčad ispada u Prvu nogometnu ligu (drugi rang), a u HNL ulazi prvak iz Prve nogometne lige. Prvak Hrvatske nogometne lige nastupa kao nositelj u 2. pretkolu UEFA Lige prvaka, drugoplasirani i trećeplasirani ulaze u 2. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu, a pobjednik Hrvatskoga nogometnog kupa ulazi u 3. pretkolo kvalifikacija za UEFA Europsku konferencijsku ligu.</desc>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260627000000 +0200" channel="Arena Sport 3.ba">
+    <title lang="bs">MOZARTBET SUPERLIGA: Vojvodina - Partizan, snimak 22.04., fudbal</title>
+    <desc lang="bs">Srpska Superliga je profesionalna liga za nogometne klubove u Srbiji. Na vrhu srpskog nogometnog sustava, to je glavno nogometno natjecanje u zemlji. Liga se sastoji od 16 klubova, koristeći sustav promocije i ispadanja u Prvu ligu Srbije, drugi stupanj nogometmog prvenstva Srbije.</desc>
   </programme>
   <channel id="Arena Sport 4.ba">
     <display-name lang="bs">Arena Sport 4</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena4.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Le Havre - PSG, snimak 28.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Lens - Monaco, snimak 21.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Lyon - Lille, snimak 01.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Lens - Monaco, snimak 21.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Lyon - Lille, snimak 01.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">FRANCUSKA LIGA: Marseille - Lens, snimak 24.01., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="Arena Sport 4.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="Arena Sport 4.ba">
     <title lang="bs">FRANCUSKA LIGA: PSG - Monaco, snimak 06.03., fudbal</title>
     <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="Arena Sport 4.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="Arena Sport 4.ba">
     <title lang="bs">Francuska liga: Nice - Rennes, snimak 21.03., fudbal</title>
     <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="Arena Sport 4.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="Arena Sport 4.ba">
     <title lang="bs">Francuska liga: Le Havre - PSG, snimak 28.02., fudbal</title>
     <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
   </programme>
-  <programme start="20260625180000 +0200" stop="20260625200000 +0200" channel="Arena Sport 4.ba">
-    <title lang="bs">Francuska liga: Lens - Monaco, snimak 21.02., fudbal</title>
-    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="Arena Sport 4.ba">
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="Arena Sport 4.ba">
     <title lang="bs">Francuska liga: Lyon - Lille, snimak 01.02., fudbal</title>
     <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="Arena Sport 4.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="Arena Sport 4.ba">
     <title lang="bs">FRANCUSKA LIGA: Marseille - Lens, snimak 24.01., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">FRANCUSKA LIGA: PSG - Monaco, snimak 06.03., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626140000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">Francuska liga: Nice - Rennes, snimak 21.03., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626140000 +0200" stop="20260626160000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">Francuska liga: Le Havre - PSG, snimak 28.02., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626160000 +0200" stop="20260626180000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">Francuska liga: Lens - Monaco, snimak 21.02., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626200000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">Francuska liga: Lyon - Lille, snimak 01.02., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626220000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">FRANCUSKA LIGA: Marseille - Lens, snimak 24.01., fudbal</title>
+    <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260627000000 +0200" channel="Arena Sport 4.ba">
+    <title lang="bs">FRANCUSKA LIGA: PSG - Monaco, snimak 06.03., fudbal</title>
     <desc lang="bs">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
   </programme>
   <channel id="Arena Sport 5.ba">
     <display-name lang="bs">Arena Sport 5</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena5.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625010000 +0200" channel="Arena Sport 5.ba">
-    <title lang="bs">WRC: Automoto, Saudijska Arabija stage 5</title>
-    <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
-  </programme>
-  <programme start="20260625010000 +0200" stop="20260625020000 +0200" channel="Arena Sport 5.ba">
-    <title lang="bs">WRC: Automoto, Central European stage 1</title>
-    <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
-  </programme>
-  <programme start="20260625020000 +0200" stop="20260625030000 +0200" channel="Arena Sport 5.ba">
-    <title lang="bs">WRC: Automoto, Central European stage 2</title>
-    <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
-  </programme>
-  <programme start="20260625030000 +0200" stop="20260625033000 +0200" channel="Arena Sport 5.ba">
-    <title lang="bs">WRC: Automoto, Central European stage 3</title>
-    <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
-  </programme>
-  <programme start="20260625033000 +0200" stop="20260625043000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626001500 +0200" stop="20260626011500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">Automoto, Super Enduro, Španija P1</title>
     <desc lang="bs">FIM Super Enduro Svjetsko prvenstvo je serija endurocross natjecanja koja se održava uglavnom u Europi od 2007. godine. Održava se od listopada do ožujka, tijekom zime na sjevernoj hemisferi i izvan sezone Svjetskog prvenstva u enduru. Staze se grade unutar stadiona ili arena, s preprekama poput stijena, gromada i trupaca.</desc>
   </programme>
-  <programme start="20260625043000 +0200" stop="20260625053000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626011500 +0200" stop="20260626021500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">Automoto, Super Enduro, Španija P2</title>
     <desc lang="bs">FIM Super Enduro Svjetsko prvenstvo je serija endurocross natjecanja koja se održava uglavnom u Europi od 2007. godine. Održava se od listopada do ožujka, tijekom zime na sjevernoj hemisferi i izvan sezone Svjetskog prvenstva u enduru. Staze se grade unutar stadiona ili arena, s preprekama poput stijena, gromada i trupaca.</desc>
   </programme>
-  <programme start="20260625053000 +0200" stop="20260625060000 +0200" channel="Arena Sport 5.ba">
-    <title lang="bs">Automoto, Super Enduro, Španija P1</title>
-    <desc lang="bs">FIM Super Enduro Svjetsko prvenstvo je serija endurocross natjecanja koja se održava uglavnom u Europi od 2007. godine. Održava se od listopada do ožujka, tijekom zime na sjevernoj hemisferi i izvan sezone Svjetskog prvenstva u enduru. Staze se grade unutar stadiona ili arena, s preprekama poput stijena, gromada i trupaca.</desc>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625070000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626021500 +0200" stop="20260626031500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Saudijska Arabija</title>
     <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
   </programme>
-  <programme start="20260625070000 +0200" stop="20260625080000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626031500 +0200" stop="20260626041500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 1</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625080000 +0200" stop="20260625090000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626041500 +0200" stop="20260626044500 +0200" channel="Arena Sport 5.ba">
+    <title lang="bs">Automoto, Super Enduro, Španija P1</title>
+    <desc lang="bs">FIM Super Enduro Svjetsko prvenstvo je serija endurocross natjecanja koja se održava uglavnom u Europi od 2007. godine. Održava se od listopada do ožujka, tijekom zime na sjevernoj hemisferi i izvan sezone Svjetskog prvenstva u enduru. Staze se grade unutar stadiona ili arena, s preprekama poput stijena, gromada i trupaca.</desc>
+  </programme>
+  <programme start="20260626044500 +0200" stop="20260626060000 +0200" channel="Arena Sport 5.ba">
+    <title lang="bs">WRC: Automoto, Saudijska Arabija</title>
+    <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
+  </programme>
+  <programme start="20260626060000 +0200" stop="20260626070000 +0200" channel="Arena Sport 5.ba">
+    <title lang="bs">WRC: Automoto, Japan stage 1</title>
+    <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
+  </programme>
+  <programme start="20260626070000 +0200" stop="20260626080000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 2</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625090000 +0200" stop="20260625100000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626080000 +0200" stop="20260626090000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 3</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625100000 +0200" stop="20260625110000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626090000 +0200" stop="20260626100000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 4</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625110000 +0200" stop="20260625120000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626100000 +0200" stop="20260626110000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 5</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625130000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626110000 +0200" stop="20260626120000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Saudijska Arabija stage 1</title>
     <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
   </programme>
-  <programme start="20260625130000 +0200" stop="20260625140000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626120000 +0200" stop="20260626130000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 1</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625150000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626130000 +0200" stop="20260626140000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Japan stage 2</title>
     <desc lang="bs">Rally Japan je reli natjecanje koje se održava na asfaltnoj stazi u Japanu. Događaj je debitirao u FIA Svjetskom prvenstvu tijekom sezone 2004. Od 2011. do 2021. utrka se nije održavala, ali se vratila u kalendar 2022. godine.</desc>
   </programme>
-  <programme start="20260625150000 +0200" stop="20260625160000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626140000 +0200" stop="20260626150000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Central European stage 1</title>
     <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625170000 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626150000 +0200" stop="20260626160000 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Central European stage 2</title>
     <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
   </programme>
-  <programme start="20260625170000 +0200" stop="20260625181500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626160000 +0200" stop="20260626171500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Central European stage 3</title>
     <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
   </programme>
-  <programme start="20260625181500 +0200" stop="20260625201500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626171500 +0200" stop="20260626191500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Saudijska Arabija stage 4</title>
     <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
   </programme>
-  <programme start="20260625201500 +0200" stop="20260625204500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626191500 +0200" stop="20260626194500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Saudijska Arabija stage 5</title>
     <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
   </programme>
-  <programme start="20260625204500 +0200" stop="20260625214500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626194500 +0200" stop="20260626204500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Saudijska Arabija stage 5</title>
     <desc lang="bs">Rally Saudi Arabia je reli natjecanje sa sjedištem u Jeddi, u Saudijskoj Arabiji. Potpisivanjem desetogodišnjeg ugovora s WRC-om, reli je postao dio kalendara Svjetskog reli prvenstva od 2025. godine.</desc>
   </programme>
-  <programme start="20260625214500 +0200" stop="20260625224500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626204500 +0200" stop="20260626214500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Central European stage 1</title>
     <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
   </programme>
-  <programme start="20260625224500 +0200" stop="20260625234500 +0200" channel="Arena Sport 5.ba">
+  <programme start="20260626214500 +0200" stop="20260626224500 +0200" channel="Arena Sport 5.ba">
     <title lang="bs">WRC: Automoto, Central European stage 2</title>
+    <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
+  </programme>
+  <programme start="20260626224500 +0200" stop="20260626231500 +0200" channel="Arena Sport 5.ba">
+    <title lang="bs">WRC: Automoto, Central European stage 3</title>
     <desc lang="bs">Srednjoeuropski reli je europsko natjecanje u reliju koje je debitiralo 2023. godine kao dio Svjetskog prvenstva u reliju, a zajednički ga organiziraju Njemačka, Austrija i Češka Republika. Reli se održava u jugoistočnoj Njemačkoj, u gradu Passau u Bavarskoj, i vozi se na asfaltu.</desc>
   </programme>
   <channel id="Arena Sport 6.ba">
     <display-name lang="bs">Arena Sport 6</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena6.png"/>
   </channel>
-  <programme start="20260625020000 +0200" stop="20260625023000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626020000 +0200" stop="20260626023000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625023000 +0200" stop="20260625030000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626023000 +0200" stop="20260626030000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625030000 +0200" stop="20260625060000 +0200" channel="Arena Sport 6.ba">
-    <title lang="bs">MLB, Boston Red Sox - Toronto Blue Jays, snimak 16.06., bejzbol</title>
+  <programme start="20260626030000 +0200" stop="20260626060000 +0200" channel="Arena Sport 6.ba">
+    <title lang="bs">MLB, Milwaukee Brewers - Cleveland Guardians, snimak 18.06., bejzbol</title>
     <desc lang="bs">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625083000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626060000 +0200" stop="20260626083000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">NHL: PLAYOFF, hokej</title>
     <desc lang="bs">National Hockey League profesionalna je liga u hokeju na ledu sastavljena od 32 kluba: 25 iz SAD-a i sedam iz Kanade. Sjedište je u New York Cityju. Smatra se najjačom profesionalnom hokejskom ligom na svijetu i jednom od velikih profesionalnih sportskih liga u SAD-u i Kanadi. Stanley Cup, najstariji profesionalni sportski trofej u Sjevernoj Americi, dodjeljuje se svake godine pobjedniku doigravanja.</desc>
   </programme>
-  <programme start="20260625083000 +0200" stop="20260625110000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626083000 +0200" stop="20260626110000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">NHL: PLAYOFF, hokej</title>
     <desc lang="bs">National Hockey League profesionalna je liga u hokeju na ledu sastavljena od 32 kluba: 25 iz SAD-a i sedam iz Kanade. Sjedište je u New York Cityju. Smatra se najjačom profesionalnom hokejskom ligom na svijetu i jednom od velikih profesionalnih sportskih liga u SAD-u i Kanadi. Stanley Cup, najstariji profesionalni sportski trofej u Sjevernoj Americi, dodjeljuje se svake godine pobjedniku doigravanja.</desc>
   </programme>
-  <programme start="20260625110000 +0200" stop="20260625113000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626110000 +0200" stop="20260626113000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625113000 +0200" stop="20260625120000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626113000 +0200" stop="20260626120000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625123000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626120000 +0200" stop="20260626123000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625123000 +0200" stop="20260625130000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626123000 +0200" stop="20260626130000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625130000 +0200" stop="20260625133000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626130000 +0200" stop="20260626133000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625133000 +0200" stop="20260625140000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626133000 +0200" stop="20260626140000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626140000 +0200" stop="20260626160000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">NBA: PLAYOFF, košarka</title>
     <desc lang="bs">NBA je najistaknutija muška profesionalna košarkaška liga u Sjevernoj Americi, a ujedno se smatra glavnom muškom profesionalnom ligom u cijelom svijetu.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626160000 +0200" stop="20260626180000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">NBA: PLAYOFF, košarka</title>
     <desc lang="bs">NBA je najistaknutija muška profesionalna košarkaška liga u Sjevernoj Americi, a ujedno se smatra glavnom muškom profesionalnom ligom u cijelom svijetu.</desc>
   </programme>
-  <programme start="20260625180000 +0200" stop="20260625201500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626180000 +0200" stop="20260626201500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">NBA: PLAYOFF, košarka</title>
     <desc lang="bs">NBA je najistaknutija muška profesionalna košarkaška liga u Sjevernoj Americi, a ujedno se smatra glavnom muškom profesionalnom ligom u cijelom svijetu.</desc>
   </programme>
-  <programme start="20260625201500 +0200" stop="20260625204500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626201500 +0200" stop="20260626204500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625204500 +0200" stop="20260625211500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626204500 +0200" stop="20260626211500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625211500 +0200" stop="20260625214500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626211500 +0200" stop="20260626214500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625214500 +0200" stop="20260625221500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626214500 +0200" stop="20260626221500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625221500 +0200" stop="20260625224500 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626221500 +0200" stop="20260626224500 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
-  <programme start="20260625224500 +0200" stop="20260625230000 +0200" channel="Arena Sport 6.ba">
+  <programme start="20260626224500 +0200" stop="20260626230000 +0200" channel="Arena Sport 6.ba">
     <title lang="bs">Sportska rivalstva</title>
     <desc lang="bs">Sporting Rivalries vas vodi kroz neka od najvećih rivalstava u povijesti sporta.</desc>
   </programme>
@@ -1064,51 +1071,51 @@
     <display-name lang="bs">Arena Sport 1x2</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena_1x2.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625020000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626000000 +0200" stop="20260626020000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625020000 +0200" stop="20260625040000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626020000 +0200" stop="20260626040000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625040000 +0200" stop="20260625060000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626040000 +0200" stop="20260626060000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625080000 +0200" channel="Arena Sport 1x2.ba">
-    <title lang="bs">FIFA SVETSKO PRVENSTVO: Švajcarska - Kanada, fudbal</title>
-    <desc lang="bs">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625100000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626060000 +0200" stop="20260626080000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625100000 +0200" stop="20260625120000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626080000 +0200" stop="20260626100000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625140000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626100000 +0200" stop="20260626120000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625140000 +0200" stop="20260625160000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626120000 +0200" stop="20260626140000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626140000 +0200" stop="20260626160000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625180000 +0200" stop="20260625200000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626160000 +0200" stop="20260626180000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625200000 +0200" stop="20260625220000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626180000 +0200" stop="20260626193000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260626000000 +0200" channel="Arena Sport 1x2.ba">
+  <programme start="20260626193000 +0200" stop="20260626220000 +0200" channel="Arena Sport 1x2.ba">
+    <title lang="bs">Košarka: EVROLIGA: Pregled sezone: EVROLIGA, košarka</title>
+    <desc lang="bs">Euroliga je evropsko profesionalno košarkaško klupsko takmičenje. Većina je smatra najjačim takvim takmičenjem u Evropi. Sastoji se od 20 klubova, od kojih 16 imaju dugoročne licence te pozivnice, što je čini poluzatvorenom ligom. Osnovala ju je FIBA krajem 1957, a od 2000. njom upravlja kompanija Euroleague Basketball.</desc>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260627000000 +0200" channel="Arena Sport 1x2.ba">
     <title lang="bs">Arena 1x2</title>
     <desc lang="bs">Arena 1x2.</desc>
   </programme>
@@ -1116,384 +1123,394 @@
     <display-name lang="bs">Premier League</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/premier_league.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625010000 +0200" channel="Premier League.ba">
-    <title lang="bs">REVIEW OF THE SEASON, 2025/2026 (ARS)</title>
-    <desc lang="bs">Pregled najboljih trenutaka, nezaboravnih golova i najboljih utakmica proteklih sezona.</desc>
-  </programme>
-  <programme start="20260625010000 +0200" stop="20260625013000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, THE GREAT NORTH LONDON DIVIDE</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.51.</episode-num>
-  </programme>
-  <programme start="20260625013000 +0200" stop="20260625023000 +0200" channel="Premier League.ba">
-    <title lang="bs">REVIEW, TUE 25 NOV</title>
-    <desc lang="bs">Premier League Review donosi nam ponovni pregled svega što se dogodilo u Premier ligi.</desc>
-  </programme>
-  <programme start="20260625023000 +0200" stop="20260625030000 +0200" channel="Premier League.ba">
-    <title lang="bs">THE BIG INTERVIEW, TYLER ADAMS</title>
-    <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
-    <episode-num system="xmltv_ns">.39.</episode-num>
-  </programme>
-  <programme start="20260625030000 +0200" stop="20260625040000 +0200" channel="Premier League.ba">
+  <programme start="20260626000000 +0200" stop="20260626010000 +0200" channel="Premier League.ba">
     <title lang="bs">Premier League GOATs</title>
     <desc lang="bs">Panel emisija u kojoj se raspravlja o tome tko su najveći igrači, momčadi i menadžeri uz pomoć arhive, statistike i svjedočenja iz prve ruke.</desc>
     <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20260625040000 +0200" stop="20260625043000 +0200" channel="Premier League.ba">
+  <programme start="20260626010000 +0200" stop="20260626013000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20260626013000 +0200" stop="20260626020000 +0200" channel="Premier League.ba">
     <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
     <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20260625043000 +0200" stop="20260625050000 +0200" channel="Premier League.ba">
+  <programme start="20260626020000 +0200" stop="20260626023000 +0200" channel="Premier League.ba">
     <title lang="bs">PL STORIES, JULIAN DICKS</title>
     <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20260625050000 +0200" stop="20260625053000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, POCHETTINOS SPURS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.1.</episode-num>
+  <programme start="20260626023000 +0200" stop="20260626043000 +0200" channel="Premier League.ba">
+    <title lang="bs">REVIEW OF THE SEASON, 2025/2026 (ARS)</title>
+    <desc lang="bs">Pregled najboljih trenutaka, nezaboravnih golova i najboljih utakmica proteklih sezona.</desc>
   </programme>
-  <programme start="20260625053000 +0200" stop="20260625060000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, LEE BOWYER</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625063000 +0200" channel="Premier League.ba">
+  <programme start="20260626043000 +0200" stop="20260626050000 +0200" channel="Premier League.ba">
     <title lang="bs">PL STORIES, THE GREAT NORTH LONDON DIVIDE</title>
     <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
     <episode-num system="xmltv_ns">.51.</episode-num>
   </programme>
-  <programme start="20260625063000 +0200" stop="20260625073000 +0200" channel="Premier League.ba">
-    <title lang="bs">REVIEW OF THE SEASON, 2025/2026 (ARS)</title>
-    <desc lang="bs">Pregled najboljih trenutaka, nezaboravnih golova i najboljih utakmica proteklih sezona.</desc>
-  </programme>
-  <programme start="20260625073000 +0200" stop="20260625080000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625083000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, JULIAN DICKS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20260625083000 +0200" stop="20260625090000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, POCHETTINOS SPURS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20260625090000 +0200" stop="20260625093000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL WORLD BEATERS</title>
-    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20260625093000 +0200" stop="20260625100000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, NORWEGIAN STRIKERS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme start="20260625100000 +0200" stop="20260625110000 +0200" channel="Premier League.ba">
+  <programme start="20260626050000 +0200" stop="20260626060000 +0200" channel="Premier League.ba">
     <title lang="bs">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
     <desc lang="bs">Premijer liga Engleske, poznatija kao Premijer liga, jest profesionalna engleska nogometna liga, i predstavlja najviši rang u engleskom nogometu.</desc>
   </programme>
-  <programme start="20260625110000 +0200" stop="20260625120000 +0200" channel="Premier League.ba">
-    <title lang="bs">Premier League GOATs</title>
-    <desc lang="bs">Panel emisija u kojoj se raspravlja o tome tko su najveći igrači, momčadi i menadžeri uz pomoć arhive, statistike i svjedočenja iz prve ruke.</desc>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20260625120000 +0200" stop="20260625130000 +0200" channel="Premier League.ba">
+  <programme start="20260626060000 +0200" stop="20260626070000 +0200" channel="Premier League.ba">
     <title lang="bs">PL MASTERCLASS</title>
     <desc lang="bs">Neke od najvećih zvijezda Premier lige vode nas na teren kako bismo razgovarali o tehnikama i misaonim procesima koji im omogućuju izvedbe na najvišoj razini.</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20260625130000 +0200" stop="20260625133000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20260625133000 +0200" stop="20260625140000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, JULIAN DICKS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20260625140000 +0200" stop="20260625143000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL WORLD BEATERS</title>
-    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20260625143000 +0200" stop="20260625150000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL WORLD BEATERS</title>
-    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20260625150000 +0200" stop="20260625160000 +0200" channel="Premier League.ba">
-    <title lang="bs">GOALS OF THE SEASON, 2025/2026 (HAALAND)</title>
-    <desc lang="bs">Ponovno doživite najbolje golove iz sezone u Premier ligi. Osvrćemo se na različite situacije kako bismo prikazali niz čudesnih golova. Biramo samo najbolje!</desc>
-  </programme>
-  <programme start="20260625160000 +0200" stop="20260625180000 +0200" channel="Premier League.ba">
-    <title lang="bs">REVIEW OF THE SEASON, 2025/2026 (ARS)</title>
-    <desc lang="bs">Pregled najboljih trenutaka, nezaboravnih golova i najboljih utakmica proteklih sezona.</desc>
-  </programme>
-  <programme start="20260625180000 +0200" stop="20260625183000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL WORLD BEATERS</title>
-    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20260625183000 +0200" stop="20260625193000 +0200" channel="Premier League.ba">
-    <title lang="bs">Premier League GOATs</title>
-    <desc lang="bs">Panel emisija u kojoj se raspravlja o tome tko su najveći igrači, momčadi i menadžeri uz pomoć arhive, statistike i svjedočenja iz prve ruke.</desc>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20260625193000 +0200" stop="20260625200000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20260625200000 +0200" stop="20260625203000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, JULIAN DICKS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20260625203000 +0200" stop="20260625213000 +0200" channel="Premier League.ba">
-    <title lang="bs">REVIEW, TUE 25 NOV</title>
-    <desc lang="bs">Premier League Review donosi nam ponovni pregled svega što se dogodilo u Premier ligi.</desc>
-  </programme>
-  <programme start="20260625213000 +0200" stop="20260625220000 +0200" channel="Premier League.ba">
-    <title lang="bs">PL STORIES, POCHETTINOS SPURS</title>
-    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20260625220000 +0200" stop="20260625223000 +0200" channel="Premier League.ba">
+  <programme start="20260626070000 +0200" stop="20260626073000 +0200" channel="Premier League.ba">
     <title lang="bs">PL STORIES, LEE BOWYER</title>
     <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20260625223000 +0200" stop="20260625233000 +0200" channel="Premier League.ba">
+  <programme start="20260626073000 +0200" stop="20260626080000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, POCHETTINOS SPURS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260626080000 +0200" stop="20260626090000 +0200" channel="Premier League.ba">
     <title lang="bs">GOALS OF THE SEASON, 2025/2026 (HAALAND)</title>
     <desc lang="bs">Ponovno doživite najbolje golove iz sezone u Premier ligi. Osvrćemo se na različite situacije kako bismo prikazali niz čudesnih golova. Biramo samo najbolje!</desc>
   </programme>
-  <programme start="20260625233000 +0200" stop="20260626000000 +0200" channel="Premier League.ba">
+  <programme start="20260626090000 +0200" stop="20260626093000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20260626093000 +0200" stop="20260626100000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, JULIAN DICKS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260626100000 +0200" stop="20260626103000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260626103000 +0200" stop="20260626110000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20260626110000 +0200" stop="20260626113000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260626113000 +0200" stop="20260626120000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260626120000 +0200" stop="20260626123000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL WORLD BEATERS</title>
+    <desc lang="bs">Program prikazuje zvijezde Premier lige koje će voditi svoje zemlje na Svjetskome prvenstvu.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20260626123000 +0200" stop="20260626130000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, POCHETTINOS SPURS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260626130000 +0200" stop="20260626140000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="bs">Premijer liga Engleske, poznatija kao Premijer liga, jest profesionalna engleska nogometna liga, i predstavlja najviši rang u engleskom nogometu.</desc>
+  </programme>
+  <programme start="20260626140000 +0200" stop="20260626143000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, LEE BOWYER</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20260626143000 +0200" stop="20260626150000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20260626150000 +0200" stop="20260626153000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, JULIAN DICKS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260626153000 +0200" stop="20260626163000 +0200" channel="Premier League.ba">
+    <title lang="bs">REVIEW, TUE 25 NOV</title>
+    <desc lang="bs">Premier League Review donosi nam ponovni pregled svega što se dogodilo u Premier ligi.</desc>
+  </programme>
+  <programme start="20260626163000 +0200" stop="20260626173000 +0200" channel="Premier League.ba">
+    <title lang="bs">Premier League GOATs</title>
+    <desc lang="bs">Panel emisija u kojoj se raspravlja o tome tko su najveći igrači, momčadi i menadžeri uz pomoć arhive, statistike i svjedočenja iz prve ruke.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260626173000 +0200" stop="20260626180000 +0200" channel="Premier League.ba">
+    <title lang="bs">REWIND, TIM HOWARD: MY EVERTON YEARS</title>
+    <desc lang="bs">Pogled unatrag na neke od klasičnih utakmica Premier lige tijekom godina.</desc>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626183000 +0200" channel="Premier League.ba">
     <title lang="bs">THE BIG INTERVIEW, TYLER ADAMS</title>
     <desc lang="bs">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
     <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20260626183000 +0200" stop="20260626203000 +0200" channel="Premier League.ba">
+    <title lang="bs">REVIEW OF THE SEASON, 2025/2026 (ARS)</title>
+    <desc lang="bs">Pregled najboljih trenutaka, nezaboravnih golova i najboljih utakmica proteklih sezona.</desc>
+  </programme>
+  <programme start="20260626203000 +0200" stop="20260626210000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, THE GREAT NORTH LONDON DIVIDE</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.51.</episode-num>
+  </programme>
+  <programme start="20260626210000 +0200" stop="20260626213000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, SOARING SEAGULLS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20260626213000 +0200" stop="20260626220000 +0200" channel="Premier League.ba">
+    <title lang="bs">PL STORIES, JULIAN DICKS</title>
+    <desc lang="bs">Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda usredotočiti na priče koje zaokupljaju obožavatelje i odjekuju među međunarodnom publikom.</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260626230000 +0200" channel="Premier League.ba">
+    <title lang="bs">REVIEW, TUE 25 NOV</title>
+    <desc lang="bs">Premier League Review donosi nam ponovni pregled svega što se dogodilo u Premier ligi.</desc>
+  </programme>
+  <programme start="20260626230000 +0200" stop="20260627000000 +0200" channel="Premier League.ba">
+    <title lang="bs">GOALS OF THE SEASON, 2025/2026 (HAALAND)</title>
+    <desc lang="bs">Ponovno doživite najbolje golove iz sezone u Premier ligi. Osvrćemo se na različite situacije kako bismo prikazali niz čudesnih golova. Biramo samo najbolje!</desc>
   </programme>
   <channel id="Arena Fight.ba">
     <display-name lang="bs">Arena Fight</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena_fight.png"/>
   </channel>
-  <programme start="20260625020000 +0200" stop="20260625021500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Szymborski vs Jelinek, MMA</title>
+  <programme start="20260626020000 +0200" stop="20260626021500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Rodriguez vs Zajicova, MMA</title>
     <desc lang="bs">Mješovite borilačke vještine je borilački sport u kojem se za pobjedu nad protivnikom koristi kombinacija velike većine borilačkih disciplina.</desc>
   </programme>
-  <programme start="20260625021500 +0200" stop="20260625024500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Jeanguillaume vs Odena, MMA</title>
+  <programme start="20260626021500 +0200" stop="20260626030000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Abdulaev vs Kobakhidze, MMA</title>
     <desc lang="bs">Mješovite borilačke vještine je borilački sport u kojem se za pobjedu nad protivnikom koristi kombinacija velike većine borilačkih disciplina.</desc>
   </programme>
-  <programme start="20260625024500 +0200" stop="20260625031500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Vallot vs Arezki, MMA</title>
+  <programme start="20260626030000 +0200" stop="20260626033000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Bivol vs Ulrich, MMA</title>
     <desc lang="bs">Mješovite borilačke vještine je borilački sport u kojem se za pobjedu nad protivnikom koristi kombinacija velike većine borilačkih disciplina.</desc>
   </programme>
-  <programme start="20260625031500 +0200" stop="20260625040000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Papp vs Gassama, MMA</title>
+  <programme start="20260626033000 +0200" stop="20260626040000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Gallon vs Varela, MMA</title>
     <desc lang="bs">Mješovite borilačke vještine je borilački sport u kojem se za pobjedu nad protivnikom koristi kombinacija velike većine borilačkih disciplina.</desc>
   </programme>
-  <programme start="20260625040000 +0200" stop="20260625041500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Bouafia vs Duclos, MMA</title>
+  <programme start="20260626040000 +0200" stop="20260626043000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Debienne vs Tandia, MMA</title>
     <desc lang="bs">Mješovite borilačke vještine je borilački sport u kojem se za pobjedu nad protivnikom koristi kombinacija velike većine borilačkih disciplina.</desc>
   </programme>
-  <programme start="20260625041500 +0200" stop="20260625050000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Elijah Garcia vs Armando Resendiz, boks</title>
+  <programme start="20260626043000 +0200" stop="20260626050000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Subriel Matias vs Shohjahon Ergashev, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625050000 +0200" stop="20260625060000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Mario Barrios vs Yordenis Ugas, boks</title>
+  <programme start="20260626050000 +0200" stop="20260626060000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Jermall Charlo vs Jose Benavidez Jr, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625060000 +0200" stop="20260625070000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Erickson Lubin vs Jesus Ramos, boks</title>
+  <programme start="20260626060000 +0200" stop="20260626064500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">David Benavidez vs Demetrius Andrade, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625070000 +0200" stop="20260625080000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Canelo Alvarez vs Jermell Charlo, boks</title>
+  <programme start="20260626064500 +0200" stop="20260626074500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Edwin de los Santos vs Joseph Adorno, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625080000 +0200" stop="20260625090000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Jermell Charlo vs Brian Castano 2, boks</title>
+  <programme start="20260626074500 +0200" stop="20260626080000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Gary Antuanne Russell vs Kent Cruz, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625090000 +0200" stop="20260625100000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Ukashir Farooq vs Angel Aviles, boks</title>
+  <programme start="20260626080000 +0200" stop="20260626090000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Jack Cullen vs John Docherty, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625100000 +0200" stop="20260625114500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Hexagone 12, MMA</title>
-    <desc lang="bs">HEXAGONE MMA je prva francuska MMA liga koja nudi najbolje od francuskih i međunarodnih boraca.</desc>
-  </programme>
-  <programme start="20260625114500 +0200" stop="20260625120000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Diego Pacheco vs Juan Antonio Mendez, boks</title>
+  <programme start="20260626090000 +0200" stop="20260626100000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">George Kambosos Jr vs Lee Selby, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625120000 +0200" stop="20260625121500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">SPECIJAL: Lutajuci Reporter</title>
+  <programme start="20260626100000 +0200" stop="20260626101500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">SPECIJAL: Borilacki Klub</title>
     <desc lang="bs">Arena Fight Specijal.</desc>
-    <episode-num system="xmltv_ns">.9.</episode-num>
+    <episode-num system="xmltv_ns">.44.</episode-num>
   </programme>
-  <programme start="20260625121500 +0200" stop="20260625130000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Duke Ragan vs Luis Lebron, boks</title>
+  <programme start="20260626101500 +0200" stop="20260626104500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Nico Ali Walsh vs Billy Wagner, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625130000 +0200" stop="20260625131500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">SPECIJAL: Kukolj Masterclass</title>
-    <desc lang="bs">Arena Fight Specijal.</desc>
-  </programme>
-  <programme start="20260625131500 +0200" stop="20260625133000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Milan Prat vs Stephen Danyo, boks</title>
+  <programme start="20260626104500 +0200" stop="20260626110000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Sofiane Oumiha vs Victor Julio, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625133000 +0200" stop="20260625143000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Fiodor Cherkashyn vs Nathaniel Gallimore, boks</title>
+  <programme start="20260626110000 +0200" stop="20260626134500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">UFC 32, MMA</title>
+    <desc lang="bs">Najpopularnija i najveća svjetska borilačka organizacija koja organizira borbe mješovitih borilačkih vještina diljem svijeta.</desc>
+  </programme>
+  <programme start="20260626134500 +0200" stop="20260626141500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Serhii Ksendzov vs Sukru Altay, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625143000 +0200" stop="20260625150000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Brian Mendoza vs Jeison Rosario, boks</title>
+  <programme start="20260626141500 +0200" stop="20260626143000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Bayram Malkan vs Slaviša Simeunović, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625150000 +0200" stop="20260625160000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Andy Cruz vs Juan Carlos Burgos, boks</title>
+  <programme start="20260626143000 +0200" stop="20260626150000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Ali Kiydin vs Milos Veletic, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625160000 +0200" stop="20260625170000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Alycia Baumgardner vs Christina Linardatou 2, boks</title>
+  <programme start="20260626150000 +0200" stop="20260626151500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Mourad Aliev vs Mirko Tintor, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625170000 +0200" stop="20260625174500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Dusan Veletic vs Kamil Sokolowski, boks</title>
+  <programme start="20260626151500 +0200" stop="20260626160000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Yusuf Kanguel vs Avni Yildirim, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625174500 +0200" stop="20260625184500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Lukas Fajk vs Sanel Hasanović, boks</title>
+  <programme start="20260626160000 +0200" stop="20260626170000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Naoya Inoue vs Marlon Tapales, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625184500 +0200" stop="20260625191500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Nico Ali Walsh vs Reyes Sanchez, boks</title>
+  <programme start="20260626170000 +0200" stop="20260626173000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Fabio Wardley vs Michael Polite-Coffie, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625191500 +0200" stop="20260625193000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Keyshawn Davis vs Jose Zaragoza, boks</title>
+  <programme start="20260626173000 +0200" stop="20260626184500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Anthony Joshua vs Jermaine Franklin, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625193000 +0200" stop="20260625200000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Jared Anderson vs Oleksandr Teslenko, boks</title>
+  <programme start="20260626184500 +0200" stop="20260626190000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Gabriel Maestre vs Travon Marshall, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625200000 +0200" stop="20260625213000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Vasiliy Lomachenko vs Richard Commey, boks</title>
+  <programme start="20260626190000 +0200" stop="20260626193000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Gvozdje i Slava, emisija</title>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260626193000 +0200" stop="20260626201500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Liam Smith vs Chris Eubank Jr, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625213000 +0200" stop="20260625221500 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Ben Whittaker vs Vladimir Belujsky, boks</title>
+  <programme start="20260626201500 +0200" stop="20260626204500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Richard Riakporhe vs Krzysztof Glowacki, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
-  <programme start="20260625221500 +0200" stop="20260625230000 +0200" channel="Arena Fight.ba">
-    <title lang="bs">Jesus Ramos vs Joey Spencer, boks</title>
+  <programme start="20260626204500 +0200" stop="20260626220000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Artur Beterbiev vs Adam Deines, boks</title>
+    <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
+  </programme>
+  <programme start="20260626220000 +0200" stop="20260626221500 +0200" channel="Arena Fight.ba">
+    <title lang="bs">DIREKT, emisija</title>
+    <desc lang="bs">Emisija DIREKT svojim će gledateljima predstaviti svijet borilačkih sportova, bivše, sadašnje i buduće prvake. Zvijezde, legende, majstori - svi će se naći u DIREKT-u.</desc>
+  </programme>
+  <programme start="20260626221500 +0200" stop="20260626223000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Sam Hickey vs Todd Tompkins, boks</title>
+    <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
+  </programme>
+  <programme start="20260626223000 +0200" stop="20260626230000 +0200" channel="Arena Fight.ba">
+    <title lang="bs">Daniyar Yeleussinov vs Julius Indongo, boks</title>
     <desc lang="bs">Uživajte u najboljim mečevima koje vam donosi ova plemenita borilačka vještina.</desc>
   </programme>
   <channel id="Arena eSport.ba">
     <display-name lang="bs">Arena eSport</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/arena_esport.png"/>
   </channel>
-  <programme start="20260625000000 +0200" stop="20260625013000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">Arena PUBG sa Mausom</title>
-    <desc lang="bs">PUBG: Battlegrounds je online battle royale igra razvijena i objavljena od strane Bluehole studija. Igra je objavljena 23. ožujka 2017 na Steamu. Lokalizirana i objavljena od strane Tencenta koji je također objavio i mobilnu verziju igre 20. ožujka 2018. Do ožujka 2018. godine verzija za Windows prodala je preko trideset milijuna kopija i zadržala vrhunac istovremenog broja igrača od preko tri milijuna što je najviše ikada na Steamu, dok je verzija za Xbox prodala više od pet milijuna primjeraka.</desc>
-    <episode-num system="xmltv_ns">.59.</episode-num>
-  </programme>
-  <programme start="20260625013000 +0200" stop="20260625043000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">PGL Astana 2026 - Mongolz vs Spirit</title>
-    <desc lang="bs">PGL Astana je offline kazahstanski CS2 turnir organiziran od strane PGL-a.</desc>
-  </programme>
-  <programme start="20260625043000 +0200" stop="20260625060000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">RETRO MIGZ1 - NeedForSpeed Underground 2</title>
-    <desc lang="bs">Novi gaming serijal u kojem Migz1 igra neke od najpoznatijih klasičnih videoigara.</desc>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20260625060000 +0200" stop="20260625063000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">KidArena - BABIC LEGO FORTNITE</title>
-    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20260625063000 +0200" stop="20260625080000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">SAREZZA MINECRAFT</title>
-    <desc lang="bs">Minecraft je sandbox igra iz 2011. godine koju je razvila i objavila švedska tvrtka Mojang Studios.</desc>
-    <episode-num system="xmltv_ns">1.75.</episode-num>
-  </programme>
-  <programme start="20260625080000 +0200" stop="20260625084500 +0200" channel="Arena eSport.ba">
-    <title lang="bs">KidArena - TASTELESS ROCKET LEAGUE</title>
-    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
-    <episode-num system="xmltv_ns">.252.</episode-num>
-  </programme>
-  <programme start="20260625084500 +0200" stop="20260625101500 +0200" channel="Arena eSport.ba">
-    <title lang="bs">Legendarni TKDSpale - Apex Legends</title>
-    <desc lang="bs">Apex Legends je besplatna battle royale videoigra koju je razvio Respawn Entertainment i objavio EA.</desc>
-    <episode-num system="xmltv_ns">27.157.</episode-num>
-  </programme>
-  <programme start="20260625101500 +0200" stop="20260625110000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">KidArena - SAREZZA ROBLOX</title>
-    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
-    <episode-num system="xmltv_ns">.359.</episode-num>
-  </programme>
-  <programme start="20260625110000 +0200" stop="20260625123000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">Profesor Babic i Fortnite Chapter 7</title>
-    <desc lang="bs">Fortnite je online multiplayer videoigra koju su razvili razvojni studiji Epic Games i People Can Fly. Izdavač je Epic Games.</desc>
-    <episode-num system="xmltv_ns">.51.</episode-num>
-  </programme>
-  <programme start="20260625123000 +0200" stop="20260625130000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">CaoTutiFruti je ASTROBOT 2</title>
-    <desc lang="bs">Vaš omiljeni kamiondžija postaće AstroBot - junak istoimene igre.</desc>
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme start="20260625130000 +0200" stop="20260625143000 +0200" channel="Arena eSport.ba">
+  <programme start="20260626000000 +0200" stop="20260626013000 +0200" channel="Arena eSport.ba">
     <title lang="bs">TASTELESS LoL-uje</title>
     <desc lang="bs">Naučite sve što vas zanima o popularnoj moba od našeg profesionalca, Igora "Tasteless" Radusinovića, a ako iole znate njegov karakter.. znate da ćete se usput i zabaviti!</desc>
     <episode-num system="xmltv_ns">.321.</episode-num>
   </programme>
-  <programme start="20260625143000 +0200" stop="20260625150000 +0200" channel="Arena eSport.ba">
+  <programme start="20260626013000 +0200" stop="20260626043000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">PGL Astana 2026 - Falcons vs Monte</title>
+    <desc lang="bs">PGL Astana je offline kazahstanski CS2 turnir organiziran od strane PGL-a.</desc>
+  </programme>
+  <programme start="20260626043000 +0200" stop="20260626060000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">RETRO MIGZ1 - NeedForSpeed Underground 2</title>
+    <desc lang="bs">Novi gaming serijal u kojem Migz1 igra neke od najpoznatijih klasičnih videoigara.</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260626060000 +0200" stop="20260626064500 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - SAREZZA ROBLOX</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.360.</episode-num>
+  </programme>
+  <programme start="20260626064500 +0200" stop="20260626071500 +0200" channel="Arena eSport.ba">
+    <title lang="bs">CaoTutiFruti je ASTROBOT 2</title>
+    <desc lang="bs">Vaš omiljeni kamiondžija postaće AstroBot - junak istoimene igre.</desc>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20260626071500 +0200" stop="20260626074500 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - MIGZI - New Super Luckys Tale</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20260626074500 +0200" stop="20260626081500 +0200" channel="Arena eSport.ba">
     <title lang="bs">KidArena - BABIC LEGO FORTNITE</title>
     <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
-    <episode-num system="xmltv_ns">.61.</episode-num>
+    <episode-num system="xmltv_ns">.62.</episode-num>
   </programme>
-  <programme start="20260625150000 +0200" stop="20260625163000 +0200" channel="Arena eSport.ba">
+  <programme start="20260626081500 +0200" stop="20260626094500 +0200" channel="Arena eSport.ba">
+    <title lang="bs">Tasteless-Ove Avanture - Escape from Duckov</title>
+    <desc lang="bs">Escape from Duckov je indi-igra u žanru evakuaciona pucačina iz prvog lica sa elementima survival-RPG, koju je razvila kineska studija Tim Soda uz podršku kompanije Bilibili. Igra predstavlja humorističnu parodiju na Escape from Tarkov. Umesto surovih plaćenika ovde su naoružane patke, a okruženje i ton su znatno lakši i crtaniji. Ipak, gejmplej nasledjuje osnovnu formulu luter-šutera sa rejdovima i evakuacijom, nudeći složene PvE borbe i dubok sistem napredovanja lika.</desc>
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20260626094500 +0200" stop="20260626103000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">Arkadne legende - Cold Heart &amp; Snake</title>
+    <desc lang="bs">Dobro je prisjetiti se klasika (ili barem ih upoznati), a ako tome dodamo zabavne trenutke koje će ovaj serijal pružati - onda nema greške!</desc>
+    <episode-num system="xmltv_ns">.156.</episode-num>
+  </programme>
+  <programme start="20260626103000 +0200" stop="20260626120000 +0200" channel="Arena eSport.ba">
     <title lang="bs">Legendarni TkDSpale - Apex Legends</title>
     <desc lang="bs">Apex Legends je besplatna battle royale videoigra koju je razvio Respawn Entertainment i objavio EA.</desc>
     <episode-num system="xmltv_ns">27.158.</episode-num>
   </programme>
-  <programme start="20260625163000 +0200" stop="20260625173000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - B8 vs THUNDERdOWNUNDER</title>
-    <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
+  <programme start="20260626120000 +0200" stop="20260626124500 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - TASTELESS ROCKET LEAGUE</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.252.</episode-num>
   </programme>
-  <programme start="20260625173000 +0200" stop="20260625183000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - MIBR vs TYLOO</title>
-    <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
-  </programme>
-  <programme start="20260625183000 +0200" stop="20260625193000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - GamerLegion vs FlyQuest</title>
-    <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
-  </programme>
-  <programme start="20260625193000 +0200" stop="20260625203000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - BetBoom vs Liquid</title>
-    <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
-  </programme>
-  <programme start="20260625203000 +0200" stop="20260625220000 +0200" channel="Arena eSport.ba">
+  <programme start="20260626124500 +0200" stop="20260626141500 +0200" channel="Arena eSport.ba">
     <title lang="bs">Retro MIGZ1 - Tomb Raider I</title>
     <desc lang="bs">Novi gaming serijal u kojem Migz1 igra neke od najpoznatijih klasičnih videoigara.</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20260625220000 +0200" stop="20260625230000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - NRG vs FlyQuest</title>
-    <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
+  <programme start="20260626141500 +0200" stop="20260626150000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - SAREZZA ROBLOX</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.360.</episode-num>
   </programme>
-  <programme start="20260625230000 +0200" stop="20260626000000 +0200" channel="Arena eSport.ba">
-    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - Liquid vs MIBR</title>
+  <programme start="20260626150000 +0200" stop="20260626163000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">Profesor Babic i Fortnite Chapter 7</title>
+    <desc lang="bs">Fortnite je online multiplayer videoigra koju su razvili razvojni studiji Epic Games i People Can Fly. Izdavač je Epic Games.</desc>
+    <episode-num system="xmltv_ns">.51.</episode-num>
+  </programme>
+  <programme start="20260626163000 +0200" stop="20260626170000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">CaoTutiFruti je ASTROBOT 2</title>
+    <desc lang="bs">Vaš omiljeni kamiondžija postaće AstroBot - junak istoimene igre.</desc>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20260626170000 +0200" stop="20260626183000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">Tajni agent Migzi - 007 Last Light</title>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20260626183000 +0200" stop="20260626190000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - BABIC LEGO FORTNITE</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.62.</episode-num>
+  </programme>
+  <programme start="20260626190000 +0200" stop="20260626203000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">Linked Podcast - Svojke i Lesko</title>
+    <desc lang="bs">Najbolje vesti iz sveta esporta.</desc>
+  </programme>
+  <programme start="20260626203000 +0200" stop="20260626210000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">KidArena - MIGZI - New Super Luckys Tale</title>
+    <desc lang="bs">Voditelji/streameri igraju igre, objašnjavaju mehanike, daju trikove i rade kratke recenzije”/playthrough epizode.</desc>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20260626210000 +0200" stop="20260627000000 +0200" channel="Arena eSport.ba">
+    <title lang="bs">IEM Cologne Major 2026 - Stage 1 - M80 vs B8</title>
     <desc lang="bs">Intel Extreme Masters serija je međunarodnih esport turnira koji se održavaju u raznim zemljama diljem svijeta.</desc>
   </programme>
   <channel id="AD Sports Premium 1">
