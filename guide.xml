@@ -9339,6 +9339,10 @@
     <title lang="bs">FRANCUSKA LIGA: Auxerre - Angers, fudbal</title>
     <desc lang="bs">Ligue 1 najviši je rang profesionalnog nogometa u Francuskoj i najviša liga francuskog nogometnog sustava. Osnovana je 1932. godine, a organizira je Ligue de Football Professionnel. U njoj se natječe 18 klubova, uz sustav ulaska u viši i ispadanja u niži rang između Ligue 1 i Ligue 2. Sezona obično traje od kolovoza do svibnja, a momčadi se natječu za naslov francuskog prvaka i plasman u europska natjecanja. Ligue 1 jedna je od vodećih europskih nacionalnih liga i uključuje klubove kao što su Paris Saint-Germain, Marseille, Lyon i Monaco.</desc>
   </programme>
+  <programme start="20260829224500 +0200" stop="20260830000000 +0200" channel="Arena Sport 1x2.ba">
+    <title lang="bs">Arena 1x2</title>
+    <desc lang="bs">Arena 1x2.</desc>
+  </programme>
   <channel id="Premier League.ba">
     <display-name lang="bs">Premier League</display-name>
     <icon src="https://mob.webtvstream.bhtelecom.ba/client/hq_logo/premier_league.png"/>
